@@ -5,3 +5,4 @@ Dengan semangat untuk belajar dan berkontribusi, saya berupaya menghadirkan solu
 Melalui pengalaman ini, saya berharap dapat terus mengasah kemampuan saya di bidang desain website dan memberikan dampak positif bagi perusahaan.
 
 Berikut Merupakan Link Website saya https://22083000026.github.io/Achmad-Dhanny-Arcthurytho.github.io/
+Berikut Merupakan Link ZIP untuk Mendownload File Website https://github.com/22083000026/Achmad-Dhanny-Arcthurytho.github.io/archive/refs/heads/main.zip
