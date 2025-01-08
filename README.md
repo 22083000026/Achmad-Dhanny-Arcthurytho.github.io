@@ -6,3 +6,5 @@ Melalui pengalaman ini, saya berharap dapat terus mengasah kemampuan saya di bid
 
 Berikut Merupakan Link Website saya https://22083000026.github.io/Achmad-Dhanny-Arcthurytho.github.io/
 Berikut Merupakan Link ZIP untuk Mendownload File Website https://github.com/22083000026/Achmad-Dhanny-Arcthurytho.github.io/archive/refs/heads/main.zip
+
+Saya membuat Website tersebut Menggunakan HTML dan CSS, untuk membuka File cukup menggunakan XAMPP
