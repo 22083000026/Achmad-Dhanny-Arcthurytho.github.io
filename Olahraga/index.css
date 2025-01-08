@@ -1,0 +1,8225 @@
+:root {
+  --default-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Ubuntu, "Helvetica Neue", Helvetica, Arial, "PingFang SC",
+    "Hiragino Sans GB", "Microsoft Yahei UI", "Microsoft Yahei",
+    "Source Han Sans CN", sans-serif;
+}
+
+.main-container {
+  overflow: hidden;
+}
+
+.main-container,
+.main-container * {
+  box-sizing: border-box;
+}
+
+input,
+select,
+textarea,
+button {
+  outline: 0;
+}
+
+.main-container {
+  position: relative;
+  width: 1519px;
+  height: 7176px;
+  margin: 0 auto;
+  background: #ffffff;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+.frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  gap: 10px;
+  position: relative;
+  width: 1539.2px;
+  margin: 6767px 0 0 -10px;
+  padding: 10px 10px 10px 10px;
+  z-index: 550;
+}
+.footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  background: #001441;
+  z-index: 551;
+}
+.horizontal-border {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  padding: 20px 209.6px 20.8px 209.6px;
+  z-index: 552;
+}
+.container {
+  display: flex;
+  align-items: center;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 1100px;
+  padding: 0 10px 0 10px;
+  z-index: 553;
+  max-width: 1100px;
+}
+.component {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 233px;
+  height: 37px;
+  padding: 0;
+  z-index: 554;
+}
+.horizontal-border-1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  padding: 20px 209.6px 20.8px 209.6px;
+  z-index: 555;
+}
+.container-2 {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 1100px;
+  min-height: 161px;
+  padding: 0 10px 0 10px;
+  z-index: 556;
+  max-width: 1100px;
+}
+.container-3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 8.4px;
+  position: relative;
+  width: 324px;
+  padding: 0 20px 0 0;
+  z-index: 557;
+}
+.component-4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  height: 20px;
+  padding: 0 0 0 0;
+  z-index: 558;
+}
+.container-5 {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  width: 486px;
+  z-index: 559;
+}
+.container-6 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  position: relative;
+  width: 486px;
+  margin: 0 0 0 0;
+  z-index: 560;
+}
+.telusuri {
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 11px;
+  color: #ffffff;
+  font-family: Arial, var(--default-font-family);
+  font-size: 10px;
+  font-weight: 700;
+  line-height: 11px;
+  text-align: left;
+  text-transform: uppercase;
+  white-space: nowrap;
+  z-index: 561;
+}
+.vector-black-illustration-building-icon {
+  position: absolute;
+  width: 562px;
+  height: 213px;
+  top: -10.8px;
+  left: -45.6px;
+  background: url(./assets/images/55c31b8a-08b6-45a2-be00-09f09d2a9aab.png)
+    no-repeat center;
+  background-size: cover;
+  z-index: 562;
+}
+.list {
+  position: absolute;
+  height: 92.55px;
+  top: 38.85px;
+  right: 0;
+  left: 0;
+  z-index: 563;
+}
+.flex-row-d {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  width: 360.5px;
+  height: 22.85px;
+  margin: 0 0 0 0;
+  z-index: 576;
+}
+.item {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 109.5px;
+  padding: 2px 0 0.85px 0;
+  z-index: 564;
+}
+.link-description-nasional {
+  flex-shrink: 0;
+  position: relative;
+  width: 63px;
+  font-family: Arial, var(--default-font-family);
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 19px;
+  text-align: left;
+  text-overflow: initial;
+  white-space: nowrap;
+  z-index: 565;
+}
+.nasional {
+  position: relative;
+  color: #cbcbcb;
+  font-family: Arial, var(--default-font-family);
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 19px;
+  text-align: left;
+}
+.item-7 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 109.5px;
+  padding: 2px 0 0.85px 0;
+  z-index: 570;
+}
+.link-description-olahraga {
+  flex-shrink: 0;
+  position: relative;
+  width: 60px;
+  font-family: Inter, var(--default-font-family);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: left;
+  text-overflow: initial;
+  white-space: nowrap;
+  z-index: 571;
+}
+.olahraga-8 {
+  position: relative;
+  color: #cbcbcb;
+  font-family: Inter, var(--default-font-family);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: left;
+}
+.item-9 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 109.5px;
+  padding: 2px 0 0.85px 0;
+  z-index: 576;
+}
+.link-description-hiburan {
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 20px;
+  color: #cbcbcb;
+  font-family: Inter, var(--default-font-family);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 577;
+}
+.flex-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  width: 360.5px;
+  height: 22.85px;
+  margin: 12px 0 0 0;
+  z-index: 578;
+}
+.item-a {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 109.5px;
+  padding: 2px 0 0.85px 0;
+  z-index: 566;
+}
+.link-description-internasional {
+  flex-shrink: 0;
+  position: relative;
+  width: 85px;
+  font-family: Inter, var(--default-font-family);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: left;
+  text-overflow: initial;
+  white-space: nowrap;
+  z-index: 567;
+}
+.internasional {
+  position: relative;
+  color: #cbcbcb;
+  font-family: Inter, var(--default-font-family);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: left;
+}
+.item-b {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 109.5px;
+  padding: 2px 0 0.85px 0;
+  z-index: 572;
+}
+.link-description-teknologi {
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 20px;
+  color: #cbcbcb;
+  font-family: Inter, var(--default-font-family);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 573;
+}
+.item-c {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 109.5px;
+  padding: 2px 0 0.85px 0;
+  z-index: 578;
+}
+.link-description-gaya-hidup {
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 20px;
+  color: #cbcbcb;
+  font-family: Inter, var(--default-font-family);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 579;
+}
+.flex-row-d-d {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  width: 360.5px;
+  height: 22.85px;
+  margin: 12px 0 0 0;
+  z-index: 580;
+}
+.item-e {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 109.5px;
+  padding: 2px 0 0.85px 0;
+  z-index: 568;
+}
+.link-description-ekonomi {
+  flex-shrink: 0;
+  position: relative;
+  width: 57px;
+  font-family: Inter, var(--default-font-family);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: left;
+  text-overflow: initial;
+  white-space: nowrap;
+  z-index: 569;
+}
+.ekonomi {
+  position: relative;
+  color: #cbcbcb;
+  font-family: Inter, var(--default-font-family);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: left;
+}
+.item-f {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 109.5px;
+  padding: 2px 0 0.85px 0;
+  z-index: 574;
+}
+.link-description-otomotif {
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 20px;
+  color: #cbcbcb;
+  font-family: Inter, var(--default-font-family);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 575;
+}
+.item-10 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 109.5px;
+  height: 22.85px;
+  padding: 0 0 0 0;
+  z-index: 580;
+}
+.images {
+  position: absolute;
+  width: 363px;
+  height: 139px;
+  top: 67.2px;
+  left: 254.4px;
+  z-index: 584;
+}
+.component-11 {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  position: absolute;
+  width: 114.6px;
+  height: 21.6px;
+  top: 139.4px;
+  left: 0;
+  padding: 0.8px 8.8px 0.8px 16.8px;
+  border: 1px solid #cc0000;
+  z-index: 581;
+}
+.background {
+  flex-shrink: 0;
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  top: 7.801px;
+  left: 5.8px;
+  background: #cc0000;
+  z-index: 582;
+  border-radius: 9999px;
+}
+.text {
+  flex-shrink: 0;
+  position: relative;
+  width: 89px;
+  font-family: Inter, var(--default-font-family);
+  font-size: 13.5625px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: left;
+  text-overflow: initial;
+  white-space: nowrap;
+  z-index: 583;
+}
+.winnicode {
+  position: relative;
+  color: #dbdbdb;
+  font-family: Inter, var(--default-font-family);
+  font-size: 13.5625px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: left;
+}
+.tv {
+  position: relative;
+  color: #dbdbdb;
+  font-family: Inter, var(--default-font-family);
+  font-size: 13.5625px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: left;
+}
+.container-12 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 16px;
+  position: relative;
+  width: 270px;
+  z-index: 585;
+}
+.container-13 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  z-index: 586;
+}
+.ikuti-kami {
+  align-self: stretch;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 11px;
+  color: #ffffff;
+  font-family: Arial, var(--default-font-family);
+  font-size: 10px;
+  font-weight: 700;
+  line-height: 11px;
+  text-align: left;
+  text-transform: uppercase;
+  white-space: nowrap;
+  z-index: 587;
+}
+.container-14 {
+  display: flex;
+  align-items: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 8px;
+  position: relative;
+  min-width: 0;
+  z-index: 588;
+}
+.component-15 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 32px;
+  height: 32px;
+  padding: 8px 8px 8px 8px;
+  background: #000000;
+  z-index: 589;
+  border-radius: 9999px;
+  box-shadow: 0 4px 4px 0 rgba(125, 224, 255, 0.45);
+}
+.icon-facebook {
+  flex-shrink: 0;
+  position: relative;
+  width: 16px;
+  height: 16px;
+  background: url(./assets/images/fa13a546-370d-46e7-9516-a4faa022e630.png)
+    no-repeat center;
+  background-size: cover;
+  z-index: 590;
+  overflow: hidden;
+  max-width: 32px;
+}
+.component-16 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 32px;
+  height: 32px;
+  padding: 8px 8px 8px 8px;
+  background: #000000;
+  z-index: 591;
+  border-radius: 9999px;
+  box-shadow: 0 4px 4px 0 rgba(125, 224, 255, 0.45);
+}
+.icon-x {
+  flex-shrink: 0;
+  position: relative;
+  width: 16px;
+  height: 16px;
+  background: url(./assets/images/5d8b3c6b-6967-454a-93d8-9c89031a7d15.png)
+    no-repeat center;
+  background-size: cover;
+  z-index: 592;
+  overflow: hidden;
+  max-width: 32px;
+}
+.component-17 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 32px;
+  height: 32px;
+  padding: 8px 8px 8px 8px;
+  background: #000000;
+  z-index: 593;
+  border-radius: 9999px;
+  box-shadow: 0 4px 4px 0 rgba(125, 224, 255, 0.45);
+}
+.icon-instagram {
+  flex-shrink: 0;
+  position: relative;
+  width: 16px;
+  height: 16px;
+  background: url(./assets/images/c920f4a6-ab7c-4443-aa6b-a453e0823ebe.png)
+    no-repeat center;
+  background-size: cover;
+  z-index: 594;
+  overflow: hidden;
+  max-width: 32px;
+}
+.component-18 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 32px;
+  height: 32px;
+  padding: 8px 8px 8px 8px;
+  background: #000000;
+  z-index: 595;
+  border-radius: 9999px;
+  box-shadow: 0 4px 4px 0 rgba(125, 224, 255, 0.45);
+}
+.icon-tiktok {
+  flex-shrink: 0;
+  position: relative;
+  width: 16px;
+  height: 16px;
+  background: url(./assets/images/f274e375-c9dc-4ca3-9326-0d70af826b0e.png)
+    no-repeat center;
+  background-size: cover;
+  z-index: 596;
+  overflow: hidden;
+  max-width: 32px;
+}
+.nav-banner-logo {
+  flex-shrink: 0;
+  position: absolute;
+  width: 247px;
+  height: 99px;
+  top: 46.2px;
+  left: 125px;
+  background: url(./assets/images/1be20312-88e1-429c-809c-86a43a47d017.png)
+    no-repeat center;
+  background-size: cover;
+  z-index: 597;
+}
+.container-19 {
+  flex-shrink: 0;
+  position: relative;
+  width: 1100px;
+  height: 124px;
+  font-size: 0px;
+  z-index: 598;
+  max-width: 1100px;
+}
+.copyright {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  width: 1051.12px;
+  height: 37.14px;
+  margin: 29.4px 0 0 24.4px;
+  color: #cbcbcb;
+  font-family: Inter, var(--default-font-family);
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 17.14px;
+  text-align: center;
+  letter-spacing: 2px;
+  z-index: 599;
+}
+.flex-row-1a {
+  position: relative;
+  width: 242px;
+  height: 20px;
+  margin: -1.14px 0 0 427.4px;
+  z-index: 610;
+}
+.component-1b {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-wrap: nowrap;
+  position: absolute;
+  width: 54px;
+  height: 19px;
+  top: 0;
+  left: 50%;
+  transform: translate(124.07%, 0);
+  z-index: 602;
+}
+.kontak-kami {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  width: 54px;
+  height: 19px;
+  color: #cbcbcb;
+  font-family: Abhaya Libre, var(--default-font-family);
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 19px;
+  text-align: center;
+  white-space: nowrap;
+  z-index: 603;
+}
+.website {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  width: 33px;
+  height: 19px;
+  top: 1px;
+  left: 0;
+  color: #cbcbcb;
+  font-family: Abhaya Libre, var(--default-font-family);
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 18.57px;
+  text-align: center;
+  white-space: nowrap;
+  z-index: 610;
+}
+.tentang-kami {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  width: 58px;
+  height: 19px;
+  top: 1px;
+  left: 81px;
+  color: #cbcbcb;
+  font-family: Abhaya Libre, var(--default-font-family);
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 18.57px;
+  text-align: center;
+  white-space: nowrap;
+  z-index: 609;
+}
+.separator {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  width: 11.2px;
+  height: 18.57px;
+  top: 1px;
+  left: calc(50% - -37px);
+  color: #cbcbcb;
+  font-family: Inter, var(--default-font-family);
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 18.57px;
+  text-align: center;
+  white-space: nowrap;
+  z-index: 601;
+}
+.separator-1c {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  width: 10px;
+  height: 17px;
+  top: 2px;
+  left: calc(50% - 69px);
+  color: #cbcbcb;
+  font-family: Inter, var(--default-font-family);
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 17px;
+  text-align: center;
+  white-space: nowrap;
+  z-index: 600;
+}
+.flex-row-ab {
+  position: relative;
+  width: 559.32px;
+  height: 18.57px;
+  margin: -9.795px 0 0 249.33px;
+  z-index: 608;
+}
+.empty {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  width: 11.2px;
+  height: 18.57px;
+  top: 0;
+  left: calc(50% - -218.46px);
+  color: #cbcbcb;
+  font-family: Inter, var(--default-font-family);
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 18.57px;
+  text-align: center;
+  white-space: nowrap;
+  z-index: 606;
+}
+.empty-1d {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  width: 11.2px;
+  height: 18.57px;
+  top: 0;
+  left: calc(50% - -268.46px);
+  color: #cbcbcb;
+  font-family: Inter, var(--default-font-family);
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 18.57px;
+  text-align: center;
+  white-space: nowrap;
+  z-index: 608;
+}
+.component-1e {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-wrap: nowrap;
+  position: absolute;
+  width: 56.19px;
+  height: 18.4px;
+  top: 0.08px;
+  left: 50%;
+  padding: 0;
+  transform: translate(-497.7%, 0);
+  z-index: 604;
+}
+.component-1f {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-wrap: nowrap;
+  position: absolute;
+  width: 112.72px;
+  height: 18.4px;
+  top: 0.08px;
+  left: 50%;
+  padding: 0;
+  transform: translate(-188.5%, 0);
+  z-index: 605;
+}
+.component-20 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-wrap: nowrap;
+  position: absolute;
+  width: 39px;
+  height: 18.4px;
+  top: 0.08px;
+  left: 50%;
+  padding: 0;
+  transform: translate(588.36%, 0);
+  z-index: 607;
+}
+.frame-21 {
+  position: absolute;
+  height: 7176px;
+  top: -1px;
+  right: -1px;
+  left: -1px;
+  background: #ffffff;
+  overflow: hidden auto;
+}
+.frame-22 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  position: relative;
+  width: 1519px;
+  margin: 0 0 0 0;
+  z-index: 611;
+}
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  height: 60px;
+  background: #000000;
+  z-index: 612;
+}
+.container-23 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  height: 66px;
+  z-index: 613;
+}
+.nav {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  padding: 0 209.6px 0 209.6px;
+  background: #000000;
+  z-index: 614;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+}
+.container-24 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 923px;
+  height: 44px;
+  padding: 0 10px 0 10px;
+  z-index: 615;
+  max-width: 1100px;
+}
+.container-25 {
+  flex-shrink: 0;
+  position: relative;
+  width: 910px;
+  height: 44px;
+  z-index: 616;
+}
+.list-margin {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  position: absolute;
+  width: 769px;
+  height: 44px;
+  top: 0;
+  left: 0;
+  padding: 0 7px 0 68px;
+  z-index: 617;
+}
+.list-26 {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 694px;
+  z-index: 618;
+}
+.item-27 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 56px;
+  z-index: 619;
+}
+.component-28 {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 56px;
+  padding: 12px 8px 12px 8px;
+  z-index: 620;
+}
+.text-home {
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 20px;
+  color: #dbdbdb;
+  font-family: Inter, var(--default-font-family);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: left;
+  white-space: nowrap;
+  letter-spacing: 0.1px;
+  z-index: 621;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.item-29 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 73px;
+  z-index: 622;
+}
+.component-2a {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 73px;
+  padding: 12px 8px 12px 8px;
+  z-index: 623;
+}
+.text-2b {
+  flex-shrink: 0;
+  position: relative;
+  width: 57px;
+  font-family: Inter, var(--default-font-family);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: left;
+  text-overflow: initial;
+  white-space: nowrap;
+  z-index: 624;
+}
+.text-nasional {
+  position: relative;
+  color: #dbdbdb;
+  font-family: Inter, var(--default-font-family);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: left;
+}
+.item-2c {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 101px;
+  z-index: 625;
+}
+.component-2d {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 101px;
+  padding: 12px 8px 12px 8px;
+  z-index: 626;
+}
+.text-2e {
+  flex-shrink: 0;
+  position: relative;
+  width: 85px;
+  font-family: Inter, var(--default-font-family);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: left;
+  text-overflow: initial;
+  white-space: nowrap;
+  z-index: 627;
+}
+.text-internasional {
+  position: relative;
+  color: #dbdbdb;
+  font-family: Inter, var(--default-font-family);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: left;
+}
+.item-2f {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 73px;
+  z-index: 628;
+}
+.component-30 {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 73px;
+  padding: 12px 8px 12px 8px;
+  z-index: 629;
+}
+.text-ekonomi {
+  flex-shrink: 0;
+  position: relative;
+  width: 57px;
+  font-family: Inter, var(--default-font-family);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: left;
+  text-overflow: initial;
+  white-space: nowrap;
+  z-index: 630;
+}
+.item-31 {
+  position: relative;
+  color: #dbdbdb;
+  font-family: Inter, var(--default-font-family);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: left;
+}
+.component-32 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 76px;
+  z-index: 631;
+}
+.text-olahraga {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 76px;
+  padding: 12px 8px 12px 8px;
+  z-index: 632;
+}
+.item-33 {
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 20px;
+  color: #ffffff;
+  font-family: Inter, var(--default-font-family);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 633;
+}
+.component-34 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 80px;
+  z-index: 634;
+}
+.text-35 {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 80px;
+  padding: 12px 8px 12px 8px;
+  z-index: 635;
+}
+.text-teknologi {
+  flex-shrink: 0;
+  position: relative;
+  width: 64px;
+  font-family: Inter, var(--default-font-family);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: left;
+  text-overflow: initial;
+  white-space: nowrap;
+  z-index: 636;
+}
+.item-36 {
+  position: relative;
+  color: #dbdbdb;
+  font-family: Inter, var(--default-font-family);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: left;
+}
+.component-37 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 74px;
+  z-index: 637;
+}
+.text-38 {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 74px;
+  padding: 12px 8px 12px 8px;
+  z-index: 638;
+}
+.text-otomotif {
+  flex-shrink: 0;
+  position: relative;
+  width: 58px;
+  font-family: Inter, var(--default-font-family);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: left;
+  text-overflow: initial;
+  white-space: nowrap;
+  z-index: 639;
+}
+.item-39 {
+  position: relative;
+  color: #dbdbdb;
+  font-family: Inter, var(--default-font-family);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: left;
+}
+.component-3a {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 68px;
+  z-index: 640;
+}
+.text-3b {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 68px;
+  padding: 12px 8px 12px 8px;
+  z-index: 641;
+}
+.text-hiburan {
+  flex-shrink: 0;
+  position: relative;
+  width: 52px;
+  font-family: Inter, var(--default-font-family);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: left;
+  text-overflow: initial;
+  white-space: nowrap;
+  z-index: 642;
+}
+.item-3c {
+  position: relative;
+  color: #dbdbdb;
+  font-family: Inter, var(--default-font-family);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: left;
+}
+.component-3d {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 93px;
+  z-index: 643;
+}
+.text-3e {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 93px;
+  padding: 12px 8px 12px 8px;
+  z-index: 644;
+}
+.text-gaya-hidup {
+  flex-shrink: 0;
+  position: relative;
+  width: 77px;
+  font-family: Inter, var(--default-font-family);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: left;
+  text-overflow: initial;
+  white-space: nowrap;
+  z-index: 645;
+}
+.nav-banner-logo-removebg-preview {
+  position: relative;
+  color: #dbdbdb;
+  font-family: Inter, var(--default-font-family);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: left;
+}
+.margin {
+  flex-shrink: 0;
+  position: absolute;
+  width: 120px;
+  height: 48px;
+  top: 3px;
+  left: -77.5px;
+  background: url(./assets/images/3ef45e17-cee0-472f-bbe6-7fba479f28c2.png)
+    no-repeat center;
+  background-size: cover;
+  z-index: 646;
+}
+.component-3f {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  flex-wrap: nowrap;
+  position: absolute;
+  width: 211.322px;
+  min-width: 175.76px;
+  height: 44px;
+  top: 0;
+  right: 0px;
+  padding: 0 0 0 0;
+  z-index: 647;
+}
+.background-40 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  position: absolute;
+  width: 118.6px;
+  height: 21.6px;
+  top: 50%;
+  left: 774.5px;
+  padding: 0.8px 8.8px 0.8px 20.8px;
+  border: 1px solid #cc0000;
+  transform: translate(0, -50.93%);
+  z-index: 648;
+}
+.text-41 {
+  flex-shrink: 0;
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  top: 7.801px;
+  left: 5.79px;
+  background: #cc0000;
+  z-index: 649;
+  border-radius: 9999px;
+}
+.text-winnicode-tv {
+  flex-shrink: 0;
+  position: relative;
+  width: 89px;
+  font-family: Inter, var(--default-font-family);
+  font-size: 13.5625px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: left;
+  text-overflow: initial;
+  white-space: nowrap;
+  z-index: 650;
+}
+.section {
+  position: relative;
+  color: #dbdbdb;
+  font-family: Inter, var(--default-font-family);
+  font-size: 13.5625px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: left;
+}
+.link {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  height: 19px;
+  padding: 0 209.6px 0 209.6px;
+  background: #cbcbcb;
+  z-index: 651;
+}
+.heading {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  gap: 36px;
+  position: relative;
+  width: 1080px;
+  margin: 50px 0 0 220px;
+  z-index: 2;
+}
+.laga-garuda-vs-samurai-biru {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  padding: 0 34.66px 0 34.65px;
+  z-index: 3;
+}
+.text-laga-garuda-vs-samurai-biru {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  width: 1010.69px;
+  font-family: Inter, var(--default-font-family);
+  font-size: 68px;
+  font-weight: 700;
+  line-height: 68px;
+  text-align: center;
+  text-overflow: initial;
+  white-space: nowrap;
+  z-index: 4;
+}
+.container-42 {
+  position: relative;
+  color: #333333;
+  font-family: Inter, var(--default-font-family);
+  font-size: 68px;
+  font-weight: 700;
+  line-height: 68px;
+  text-align: center;
+}
+.timnas-china-vs-timnas-indonesia {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  height: 607.5px;
+  z-index: 5;
+  overflow: hidden;
+}
+.nav-43 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: url(./assets/images/a3d2f66b-4364-4a79-b06f-0fb8731acf48.png)
+    no-repeat center;
+  background-size: 100% 100%;
+  z-index: 6;
+  overflow: hidden;
+}
+.component-44 {
+  display: flex;
+  align-items: center;
+  flex-wrap: nowrap;
+  gap: 16px;
+  position: relative;
+  width: 1080px;
+  margin: 24px 0 0 220px;
+  z-index: 7;
+}
+.text-olahraga-45 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 132px;
+  z-index: 8;
+}
+.list-46 {
+  flex-shrink: 0;
+  position: relative;
+  width: 132px;
+  font-family: Inter, var(--default-font-family);
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 32px;
+  text-align: left;
+  text-overflow: initial;
+  white-space: nowrap;
+  z-index: 9;
+}
+.item-47 {
+  position: relative;
+  color: #464646;
+  font-family: Inter, var(--default-font-family);
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 32px;
+  text-align: left;
+  text-transform: uppercase;
+}
+.component-48 {
+  display: flex;
+  align-items: center;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 16px;
+  position: relative;
+  width: 296.8px;
+  padding: 0 0 0 16.8px;
+  z-index: 10;
+}
+.text-sepakbola {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 90px;
+  padding: 1.6px 0 1.6px 0;
+  z-index: 11;
+}
+.item-49 {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 90px;
+  z-index: 12;
+}
+.component-4a {
+  flex-shrink: 0;
+  position: relative;
+  width: 90px;
+  font-family: Inter, var(--default-font-family);
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+  text-overflow: initial;
+  white-space: nowrap;
+  z-index: 13;
+}
+.text-moto-gp {
+  position: relative;
+  color: #464646;
+  font-family: Inter, var(--default-font-family);
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+}
+.item-4b {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 74px;
+  padding: 1.6px 0 1.6px 0;
+  z-index: 14;
+}
+.component-4c {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 74px;
+  z-index: 15;
+}
+.text-f1 {
+  flex-shrink: 0;
+  position: relative;
+  width: 74px;
+  font-family: Inter, var(--default-font-family);
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+  text-overflow: initial;
+  white-space: nowrap;
+  z-index: 16;
+}
+.item-4d {
+  position: relative;
+  color: #464646;
+  font-family: Inter, var(--default-font-family);
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+}
+.component-4e {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 19px;
+  padding: 1.6px 0 1.6px 0;
+  z-index: 17;
+}
+.text-raket {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 19px;
+  z-index: 18;
+}
+.container-4f {
+  flex-shrink: 0;
+  position: relative;
+  width: 19px;
+  font-family: Inter, var(--default-font-family);
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+  text-overflow: initial;
+  white-space: nowrap;
+  z-index: 19;
+}
+.container-50 {
+  position: relative;
+  color: #464646;
+  font-family: Inter, var(--default-font-family);
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+}
+.border {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 49px;
+  padding: 1.6px 0 1.6px 0;
+  z-index: 20;
+}
+.component-51 {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 49px;
+  z-index: 21;
+}
+.container-52 {
+  flex-shrink: 0;
+  position: relative;
+  width: 49px;
+  font-family: Inter, var(--default-font-family);
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+  text-overflow: initial;
+  white-space: nowrap;
+  z-index: 22;
+}
+.heading-53 {
+  position: relative;
+  color: #464646;
+  font-family: Inter, var(--default-font-family);
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+}
+.text-hasil-kumamoto-masters {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  gap: 24px;
+  position: relative;
+  width: 1080px;
+  min-height: 543.9px;
+  margin: 20px 0 0 220px;
+  z-index: 23;
+}
+.container-54 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 0;
+  position: relative;
+  min-width: 0;
+  z-index: 24;
+}
+.text-olahraga-55 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 16px;
+  position: relative;
+  padding: 16px 16.8px 16.8px 16.8px;
+  border: 1px solid #dbdbdb;
+  z-index: 25;
+}
+.container-56 {
+  display: flex;
+  align-items: flex-end;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 24px;
+  position: relative;
+  z-index: 26;
+}
+.wrapper-1b {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 0;
+  gap: 7.2px;
+  position: relative;
+  z-index: 27;
+}
+.group-1e {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 198px;
+  padding: 0.8px 0 0.8px 0;
+  z-index: 28;
+}
+.text-25 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+  width: 198px;
+  height: 160px;
+  color: #333333;
+  font-family: Inter, var(--default-font-family);
+  font-size: 23.8125px;
+  font-weight: 500;
+  line-height: 32px;
+  text-align: left;
+  text-overflow: initial;
+  z-index: 29;
+  overflow: hidden;
+}
+.section-18 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  z-index: 30;
+}
+.text-26 {
+  align-self: stretch;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 16px;
+  color: #cc0000;
+  font-family: Inter, var(--default-font-family);
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 31;
+}
+.group-1f {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  padding: 0.8px 0 0 0;
+  z-index: 32;
+}
+.jonatan-christie-news {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  width: 220.4px;
+  height: 100px;
+  color: #333333;
+  font-family: Inter, var(--default-font-family);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: left;
+  text-overflow: initial;
+  z-index: 33;
+  overflow: hidden;
+}
+.container-57 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 498px;
+  z-index: 34;
+  overflow: hidden;
+}
+.container-58 {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  height: 373.5px;
+  z-index: 35;
+}
+.jonatan-christie-image {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: url(./assets/images/bfa1265b-51b7-40fb-be7f-be585fbd7f1f.png)
+    no-repeat center;
+  background-size: 100% 100%;
+  z-index: 36;
+  overflow: hidden;
+}
+.horizontal-border-59 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 0px;
+  position: relative;
+  padding: 16.8px 0 0 0;
+  border-bottom: 0.8px solid #dbdbdb;
+  z-index: 37;
+}
+.article {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 355.79px;
+  z-index: 38;
+}
+.component-5a {
+  display: flex;
+  align-items: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 16px;
+  position: relative;
+  min-width: 0;
+  z-index: 39;
+}
+.container-5b {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 0;
+  position: relative;
+  padding: 5.5px 0 0.35px 0;
+  z-index: 40;
+}
+.heading-5c {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 1.85px;
+  position: relative;
+  width: 251px;
+  z-index: 41;
+}
+.hasil-kumamoto-masters {
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 21px;
+  color: #464646;
+  font-family: Inter, var(--default-font-family);
+  font-size: 13.890625px;
+  font-weight: 500;
+  line-height: 21px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 42;
+}
+.garang-leo-bagas {
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 21px;
+  color: #464646;
+  font-family: Inter, var(--default-font-family);
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 21px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 43;
+}
+.container-5d {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 72px;
+  z-index: 44;
+  overflow: hidden;
+}
+.container-5e {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  height: 72px;
+  z-index: 45;
+}
+.badminton-image {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: url(./assets/images/3f6586c4-3c5f-4b22-a02e-39e7ff40a0a2.png)
+    no-repeat center;
+  background-size: 100% 100%;
+  z-index: 46;
+  overflow: hidden;
+}
+.article-margin {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 386.61px;
+  padding: 0 0 0 20px;
+  z-index: 47;
+}
+.article-5f {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  padding: 0 0 0 20.8px;
+  z-index: 48;
+}
+.component-60 {
+  display: flex;
+  align-items: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 16px;
+  position: relative;
+  z-index: 49;
+}
+.container-61 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 0;
+  position: relative;
+  padding: 5.5px 0 0.35px 0;
+  z-index: 50;
+}
+.heading-62 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 1.85px;
+  position: relative;
+  width: 229px;
+  z-index: 51;
+}
+.hasil-kumamoto-masters-63 {
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 21px;
+  color: #464646;
+  font-family: Inter, var(--default-font-family);
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 21px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 52;
+}
+.fikri-daniel {
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 21px;
+  color: #464646;
+  font-family: Inter, var(--default-font-family);
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 21px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 53;
+}
+.container-64 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 72px;
+  z-index: 54;
+  overflow: hidden;
+}
+.container-65 {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  height: 72px;
+  z-index: 55;
+}
+.jonatan-christie-image-66 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: url(./assets/images/e058bb21-c8cc-43c0-9a3f-3370a642ee25.png)
+    no-repeat center;
+  background-size: 100% 100%;
+  z-index: 56;
+  overflow: hidden;
+}
+.container-67 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 280px;
+  z-index: 57;
+}
+.horizontal-border-68 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 16px;
+  position: relative;
+  min-width: 0;
+  padding: 0 0 20.8px 0;
+  z-index: 58;
+}
+.container-69 {
+  display: flex;
+  align-items: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  padding: 12px 0 12px 0;
+  z-index: 59;
+}
+.background-6a {
+  flex-shrink: 0;
+  position: absolute;
+  width: 32px;
+  height: 3px;
+  bottom: 0;
+  left: 0;
+  background: #cc0000;
+  z-index: 60;
+}
+.terpopuler {
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 24px;
+  color: #333333;
+  font-family: Inter, var(--default-font-family);
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 61;
+}
+.container-6b {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  height: 322px;
+  z-index: 62;
+  overflow: hidden;
+}
+.article-6c {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  position: relative;
+  width: 263.2px;
+  margin: 0 0 0 0;
+  padding: 0 0 0 36px;
+  z-index: 63;
+}
+.component-6d {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 4.8px;
+  position: relative;
+  min-width: 0;
+  padding: 0 0 1.6px 0;
+  z-index: 64;
+}
+.heading-6e {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  z-index: 65;
+}
+.kontroversi-kemenangan-qatar {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  width: 227.2px;
+  height: 72px;
+  color: #464646;
+  font-family: Inter, var(--default-font-family);
+  font-size: 15.75px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: left;
+  text-overflow: initial;
+  z-index: 66;
+  overflow: hidden;
+}
+.olahraga-6f {
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 16px;
+  color: #cc0000;
+  font-family: Inter, var(--default-font-family);
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 67;
+}
+.text-2f {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: absolute;
+  width: 20.22px;
+  height: 28px;
+  top: 0;
+  left: 0;
+  color: #cbcbcb;
+  font-family: Inter, var(--default-font-family);
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 68;
+}
+.article-70 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  position: relative;
+  width: 263.2px;
+  margin: 16.45px 0 0 0;
+  padding: 0 0 0 36px;
+  z-index: 69;
+}
+.component-71 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 4.8px;
+  position: relative;
+  min-width: 0;
+  padding: 0 0 1.6px 0;
+  z-index: 70;
+}
+.heading-72 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  z-index: 71;
+}
+.usai-lawan-jake-paul {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  width: 227.2px;
+  height: 72px;
+  color: #464646;
+  font-family: Inter, var(--default-font-family);
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: left;
+  text-overflow: initial;
+  z-index: 72;
+  overflow: hidden;
+}
+.olahraga-73 {
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 16px;
+  color: #cc0000;
+  font-family: Inter, var(--default-font-family);
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 73;
+}
+.text-32 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: absolute;
+  width: 21.91px;
+  height: 28px;
+  top: 0;
+  left: 0;
+  color: #cbcbcb;
+  font-family: Inter, var(--default-font-family);
+  font-size: 17.71875px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 74;
+}
+.article-74 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  position: relative;
+  width: 263.2px;
+  margin: 16.45px 0 0 0;
+  padding: 0 0 0 36px;
+  z-index: 75;
+}
+.component-75 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 4.8px;
+  position: relative;
+  min-width: 0;
+  padding: 0 0 1.6px 0;
+  z-index: 76;
+}
+.heading-76 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  z-index: 77;
+}
+.foto-mike-tyson-jake-paul {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  width: 227.2px;
+  font-family: Inter, var(--default-font-family);
+  font-size: 15.625px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: left;
+  text-overflow: initial;
+  white-space: nowrap;
+  z-index: 78;
+}
+.olahraga-77 {
+  position: relative;
+  color: #464646;
+  font-family: Inter, var(--default-font-family);
+  font-size: 15.625px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: left;
+}
+.text-34 {
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 16px;
+  color: #cc0000;
+  font-family: Inter, var(--default-font-family);
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 79;
+}
+.article-78 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: absolute;
+  width: 22.06px;
+  height: 28px;
+  top: 0;
+  left: 0;
+  color: #cbcbcb;
+  font-family: Inter, var(--default-font-family);
+  font-size: 17.4375px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 80;
+}
+.component-79 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  position: relative;
+  width: 263.2px;
+  margin: 16.45px 0 0 0;
+  padding: 0 0 0 36px;
+  z-index: 81;
+}
+.heading-7a {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 4.8px;
+  position: relative;
+  min-width: 0;
+  padding: 0 0 1.6px 0;
+  z-index: 82;
+}
+.prediksi-timnas-indonesia-jepang {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  z-index: 83;
+}
+.olahraga-7b {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  width: 227.2px;
+  height: 72px;
+  color: #464646;
+  font-family: Inter, var(--default-font-family);
+  font-size: 15.75px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: left;
+  text-overflow: initial;
+  z-index: 84;
+  overflow: hidden;
+}
+.text-37 {
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 16px;
+  color: #cc0000;
+  font-family: Inter, var(--default-font-family);
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 85;
+}
+.article-7c {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: absolute;
+  width: 22.16px;
+  height: 28px;
+  top: 0;
+  left: 0;
+  color: #cbcbcb;
+  font-family: Inter, var(--default-font-family);
+  font-size: 17.4375px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 86;
+}
+.component-7d {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  position: relative;
+  width: 263.2px;
+  margin: 16.45px 0 0 0;
+  padding: 0 0 0 36px;
+  z-index: 87;
+}
+.heading-7e {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 4.8px;
+  position: relative;
+  min-width: 0;
+  padding: 0 0 1.6px 0;
+  z-index: 88;
+}
+.mike-tyson-tampar-jake-paul {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  z-index: 89;
+}
+.olahraga-7f {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  width: 227.2px;
+  height: 72px;
+  color: #464646;
+  font-family: Inter, var(--default-font-family);
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: left;
+  text-overflow: initial;
+  z-index: 90;
+  overflow: hidden;
+}
+.text-3a {
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 16px;
+  color: #cc0000;
+  font-family: Inter, var(--default-font-family);
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 91;
+}
+.article-80 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: absolute;
+  width: 22.07px;
+  height: 28px;
+  top: 0;
+  left: 0;
+  color: #cbcbcb;
+  font-family: Inter, var(--default-font-family);
+  font-size: 17.859375px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 92;
+}
+.component-81 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  position: relative;
+  width: 263.2px;
+  margin: 16.45px 0 0 0;
+  padding: 0 0 0 36px;
+  z-index: 93;
+}
+.heading-82 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 4.8px;
+  position: relative;
+  min-width: 0;
+  padding: 0 0 1.6px 0;
+  z-index: 94;
+}
+.klasemen-kualifikasi-piala-dunia {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  z-index: 95;
+}
+.olahraga-83 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  width: 227.2px;
+  height: 72px;
+  color: #464646;
+  font-family: Inter, var(--default-font-family);
+  font-size: 15.875px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: left;
+  text-overflow: initial;
+  z-index: 96;
+  overflow: hidden;
+}
+.text-3d {
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 16px;
+  color: #cc0000;
+  font-family: Inter, var(--default-font-family);
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 97;
+}
+.gradient {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: absolute;
+  width: 22.03px;
+  height: 28px;
+  top: 0;
+  left: 0;
+  color: #cbcbcb;
+  font-family: Inter, var(--default-font-family);
+  font-size: 17.578125px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 98;
+}
+.rectangle {
+  flex-shrink: 0;
+  position: absolute;
+  width: 100%;
+  height: 20px;
+  bottom: 16.8px;
+  left: 0;
+  background: url(./assets/images/4e6aa981-8804-4031-9056-94c467046321.png)
+    no-repeat center;
+  background-size: cover;
+  z-index: 99;
+}
+.rectangle-84 {
+  flex-shrink: 0;
+  position: absolute;
+  width: 1519px;
+  height: 198px;
+  top: 1101.5px;
+  left: -1018px;
+  background: url(./assets/images/37f7e9b9-e851-4b1e-a59e-a8bff4008f1a.png)
+    no-repeat center;
+  background-size: cover;
+  z-index: 100;
+}
+.container-85 {
+  flex-shrink: 0;
+  position: absolute;
+  width: 1519px;
+  height: 198px;
+  top: 2155.5px;
+  left: -1018px;
+  background: url(./assets/images/6357f653-fa25-488d-850b-1a8280d20ce5.png)
+    no-repeat center;
+  background-size: cover;
+  z-index: 101;
+}
+.container-86 {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  gap: 24px;
+  position: relative;
+  width: 1080px;
+  margin: 0px 0 0 220px;
+  z-index: 102;
+}
+.container-87 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 48.8px;
+  position: relative;
+  width: 756px;
+  z-index: 103;
+}
+.container-88 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 16px;
+  position: relative;
+  min-width: 0;
+  z-index: 104;
+}
+.background-89 {
+  display: flex;
+  align-items: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  padding: 12px 0 12px 0;
+  z-index: 105;
+}
+.terbaru {
+  flex-shrink: 0;
+  position: absolute;
+  width: 32px;
+  height: 3px;
+  bottom: 0;
+  left: 0;
+  background: #cc0000;
+  z-index: 106;
+}
+.container-8a {
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 24px;
+  color: #333333;
+  font-family: Inter, var(--default-font-family);
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 107;
+}
+.article-8b {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 40px;
+  position: relative;
+  z-index: 108;
+}
+.component-8c {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  height: 151.88px;
+  z-index: 109;
+}
+.container-8d {
+  display: flex;
+  align-items: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 16px;
+  position: relative;
+  z-index: 110;
+}
+.box-2f {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 270px;
+  z-index: 111;
+  overflow: hidden;
+}
+.container-8e {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  height: 151.88px;
+  z-index: 112;
+}
+.bahrain-vs-china {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: url(./assets/images/a0fac7d2-2c87-4b8b-bcd6-8baf0a6b5509.png)
+    no-repeat center;
+  background-size: 100% 100%;
+  z-index: 113;
+  overflow: hidden;
+}
+.container-8f {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 0;
+  gap: 5.2px;
+  position: relative;
+  padding: 0.8px 0 0 0;
+  z-index: 114;
+}
+.heading-90 {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 442px;
+  z-index: 115;
+}
+.bencana-gol-dianulir {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+  width: 442px;
+  height: 60px;
+  color: #464646;
+  font-family: Inter, var(--default-font-family);
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 30px;
+  text-align: left;
+  text-overflow: initial;
+  z-index: 116;
+  overflow: hidden;
+}
+.container-91 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  padding: 4.8px 0 2.05px 0;
+  z-index: 117;
+}
+.olahraga-92 {
+  align-self: stretch;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 16px;
+  color: #cc0000;
+  font-family: Inter, var(--default-font-family);
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 118;
+}
+.article-93 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  height: 131.87px;
+  z-index: 119;
+}
+.component-94 {
+  display: flex;
+  align-items: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 16px;
+  position: relative;
+  z-index: 120;
+}
+.container-95 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 270px;
+  z-index: 121;
+  overflow: hidden;
+}
+.container-96 {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  height: 151.88px;
+  z-index: 122;
+}
+.timnas-paraguay-vs-timnas-argentina {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: url(./assets/images/b4497856-a3e5-48ec-a5e2-2d76c6ff14bb.png)
+    no-repeat center;
+  background-size: 100% 100%;
+  z-index: 123;
+  overflow: hidden;
+}
+.container-97 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 0;
+  gap: 5.2px;
+  position: relative;
+  padding: 0.8px 0 0 0;
+  z-index: 124;
+}
+.heading-98 {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 463px;
+  z-index: 125;
+}
+.klasemen-kualifikasi-piala-dunia-99 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+  width: 463px;
+  height: 60px;
+  color: #464646;
+  font-family: Inter, var(--default-font-family);
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 30px;
+  text-align: left;
+  text-overflow: initial;
+  z-index: 126;
+  overflow: hidden;
+}
+.container-9a {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  padding: 4.8px 0 2.05px 0;
+  z-index: 127;
+}
+.olahraga-9b {
+  align-self: stretch;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 16px;
+  color: #cc0000;
+  font-family: Inter, var(--default-font-family);
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 128;
+}
+.background-9c {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 16px;
+  position: relative;
+  padding: 0 0 16px 0;
+  background: #001541;
+  z-index: 129;
+}
+.container-9d {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 764px;
+  padding: 12px 16px 12px 16px;
+  z-index: 130;
+}
+.container-9e {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 156px;
+  z-index: 131;
+}
+.timnas-indonesia {
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 24px;
+  color: #ffffff;
+  font-family: Inter, var(--default-font-family);
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 132;
+}
+.background-9f {
+  flex-shrink: 0;
+  position: absolute;
+  width: 32px;
+  height: 3px;
+  bottom: 0;
+  left: 16px;
+  background: #cc0000;
+  z-index: 135;
+}
+.link-a0 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 95px;
+  z-index: 133;
+}
+.lihat-semua {
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 20px;
+  color: #ffffff;
+  font-family: Inter, var(--default-font-family);
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 20px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 134;
+}
+.container-a1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 16px;
+  position: relative;
+  padding: 0 0.02px 0 0;
+  z-index: 136;
+}
+.article-a2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 233.32px;
+  z-index: 137;
+}
+.component-a3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 16px;
+  position: relative;
+  min-width: 0;
+  z-index: 138;
+}
+.container-a4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 233.32px;
+  z-index: 139;
+  overflow: hidden;
+}
+.container-a5 {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  height: 131.24px;
+  z-index: 140;
+}
+.timnas-china-vs-timnas-indonesia-a6 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: url(./assets/images/ee6e4170-4e03-4456-bea8-89e1b961d63b.png)
+    no-repeat center;
+  background-size: 100% 100%;
+  z-index: 141;
+  overflow: hidden;
+}
+.container-a7 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 233.32px;
+  height: 85.85px;
+  z-index: 142;
+}
+.heading-a8 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  z-index: 143;
+}
+.prediksi-susunan-pemain {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  width: 233.32px;
+  height: 63px;
+  color: #ffffff;
+  font-family: Inter, var(--default-font-family);
+  font-size: 13.890625px;
+  font-weight: 500;
+  line-height: 21px;
+  text-align: left;
+  text-overflow: initial;
+  z-index: 144;
+  overflow: hidden;
+}
+.container-a9 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  padding: 4.8px 0 2.05px 0;
+  z-index: 145;
+}
+.olahraga-aa {
+  align-self: stretch;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 16px;
+  color: #f5a623;
+  font-family: Inter, var(--default-font-family);
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 146;
+}
+.article-ab {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 233.34px;
+  z-index: 147;
+}
+.component-ac {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 16px;
+  position: relative;
+  min-width: 0;
+  z-index: 148;
+}
+.container-ad {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 233.34px;
+  z-index: 149;
+  overflow: hidden;
+}
+.container-ae {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  height: 131.25px;
+  z-index: 150;
+}
+.timnas-indonesia-af {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: url(./assets/images/e725266a-8815-4885-b3db-de96339dc5e3.png)
+    no-repeat center;
+  background-size: 100% 100%;
+  z-index: 151;
+  overflow: hidden;
+}
+.container-b0 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 233.34px;
+  height: 64.85px;
+  z-index: 152;
+}
+.heading-b1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  z-index: 153;
+}
+.jay-idzes-sudah-amati {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  width: 233.34px;
+  height: 42px;
+  color: #ffffff;
+  font-family: Inter, var(--default-font-family);
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 21px;
+  text-align: left;
+  text-overflow: initial;
+  z-index: 154;
+  overflow: hidden;
+}
+.container-b2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  padding: 4.8px 0 2.05px 0;
+  z-index: 155;
+}
+.olahraga-b3 {
+  align-self: stretch;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 16px;
+  color: #f5a623;
+  font-family: Inter, var(--default-font-family);
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 156;
+}
+.article-b4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 233.32px;
+  z-index: 157;
+}
+.component-b5 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 16px;
+  position: relative;
+  min-width: 0;
+  z-index: 158;
+}
+.container-b6 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 233.32px;
+  z-index: 159;
+  overflow: hidden;
+}
+.container-b7 {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  height: 131.24px;
+  z-index: 160;
+}
+.timnas-jepang-vs-timnas-indonesia {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: url(./assets/images/3f76df9b-3539-4c69-81cc-adda85c043c9.png)
+    no-repeat center;
+  background-size: 100% 100%;
+  z-index: 161;
+  overflow: hidden;
+}
+.container-b8 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 233.32px;
+  height: 64.85px;
+  z-index: 162;
+}
+.heading-b9 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  z-index: 163;
+}
+.kubo-mau-indonesia {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  width: 233.32px;
+  height: 42px;
+  color: #ffffff;
+  font-family: Inter, var(--default-font-family);
+  font-size: 13.890625px;
+  font-weight: 500;
+  line-height: 21px;
+  text-align: left;
+  text-overflow: initial;
+  z-index: 164;
+  overflow: hidden;
+}
+.container-ba {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  padding: 4.8px 0 2.05px 0;
+  z-index: 165;
+}
+.olahraga-bb {
+  align-self: stretch;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 16px;
+  color: #f5a623;
+  font-family: Inter, var(--default-font-family);
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 166;
+}
+.article-bc {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  height: 151.88px;
+  z-index: 167;
+}
+.component-bd {
+  display: flex;
+  align-items: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 16px;
+  position: relative;
+  z-index: 168;
+}
+.container-be {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 270px;
+  z-index: 169;
+  overflow: hidden;
+}
+.container-bf {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  height: 151.88px;
+  z-index: 170;
+}
+.mike-tyson-tampar-jake-paul-c0 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: url(./assets/images/0a3ac146-4e1a-4ff5-9d9e-37aca124722d.png)
+    no-repeat center;
+  background-size: 100% 100%;
+  z-index: 171;
+  overflow: hidden;
+}
+.overlay {
+  display: flex;
+  align-items: center;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: absolute;
+  width: 14.81%;
+  height: 32px;
+  bottom: 0.01px;
+  left: 0;
+  padding: 8px 8px 8px 8px;
+  background: rgba(0, 0, 0, 0.6);
+  z-index: 172;
+}
+.icon-camera-bg {
+  flex-shrink: 0;
+  position: relative;
+  width: 16px;
+  height: 16px;
+  background: url(./assets/images/8254b98e-68ad-4fe5-9517-104c3998920f.png)
+    no-repeat center;
+  background-size: cover;
+  z-index: 173;
+  overflow: hidden;
+  max-width: 40px;
+}
+.container-c1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 0;
+  gap: 5.2px;
+  position: relative;
+  padding: 0.8px 0 0 0;
+  z-index: 174;
+}
+.heading-c2 {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 452px;
+  z-index: 175;
+}
+.foto-detik-detik-mike-tyson {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+  width: 452px;
+  height: 60px;
+  color: #464646;
+  font-family: Inter, var(--default-font-family);
+  font-size: 19.6875px;
+  font-weight: 500;
+  line-height: 30px;
+  text-align: left;
+  text-overflow: initial;
+  z-index: 176;
+  overflow: hidden;
+}
+.container-c3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  padding: 4.8px 0 2.05px 0;
+  z-index: 177;
+}
+.olahraga-c4 {
+  align-self: stretch;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 16px;
+  color: #cc0000;
+  font-family: Inter, var(--default-font-family);
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 178;
+}
+.article-c5 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  height: 151.88px;
+  z-index: 179;
+}
+.component-c6 {
+  display: flex;
+  align-items: center;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 16px;
+  position: absolute;
+  height: 151.88px;
+  top: -14.12px;
+  right: 0;
+  left: 0;
+  z-index: 180;
+}
+.container-c7 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 270px;
+  z-index: 181;
+  overflow: hidden;
+}
+.container-c8 {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  height: 151.88px;
+  z-index: 182;
+}
+.timnas-china-vs-timnas-indonesia-c9 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: url(./assets/images/d953ca7a-3d2a-4509-b455-a4cecee4bfa6.png)
+    no-repeat center;
+  background-size: 100% 100%;
+  z-index: 183;
+  overflow: hidden;
+}
+.container-ca {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 0;
+  gap: 5.2px;
+  position: relative;
+  min-width: 0;
+  padding: 0.8px 0 0 0;
+  z-index: 184;
+}
+.heading-cb {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 444px;
+  z-index: 185;
+}
+.prediksi-susunan-pemain-cc {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+  width: 444px;
+  height: 60px;
+  color: #464646;
+  font-family: Inter, var(--default-font-family);
+  font-size: 19.84375px;
+  font-weight: 500;
+  line-height: 30px;
+  text-align: left;
+  text-overflow: initial;
+  z-index: 186;
+  overflow: hidden;
+}
+.container-cd {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  padding: 4.8px 0 2.05px 0;
+  z-index: 187;
+}
+.olahraga-ce {
+  align-self: stretch;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 16px;
+  color: #cc0000;
+  font-family: Inter, var(--default-font-family);
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 188;
+}
+.article-cf {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  height: 151.88px;
+  z-index: 189;
+}
+.component-d0 {
+  display: flex;
+  align-items: center;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 16px;
+  position: absolute;
+  height: 151.88px;
+  top: -27px;
+  right: 0;
+  left: 0;
+  z-index: 190;
+}
+.container-d1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 270px;
+  z-index: 191;
+  overflow: hidden;
+}
+.container-d2 {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  height: 151.88px;
+  z-index: 192;
+}
+.timnas-indonesia-d3 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: url(./assets/images/99d81dd3-5d77-45ac-ad90-aa8faccb5f7e.png)
+    no-repeat center;
+  background-size: 100% 100%;
+  z-index: 193;
+  overflow: hidden;
+}
+.container-d4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 0;
+  gap: 5.2px;
+  position: relative;
+  min-width: 0;
+  padding: 0.8px 0 0 0;
+  z-index: 194;
+}
+.heading-d5 {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 445px;
+  z-index: 195;
+}
+.jay-idzes-sudah-amati-d6 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+  width: 445px;
+  height: 60px;
+  color: #464646;
+  font-family: Inter, var(--default-font-family);
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 30px;
+  text-align: left;
+  text-overflow: initial;
+  z-index: 196;
+  overflow: hidden;
+}
+.container-d7 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  padding: 4.8px 0 2.05px 0;
+  z-index: 197;
+}
+.olahraga-d8 {
+  align-self: stretch;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 16px;
+  color: #cc0000;
+  font-family: Inter, var(--default-font-family);
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 198;
+}
+.article-d9 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  height: 111.87px;
+  z-index: 199;
+}
+.component-da {
+  display: flex;
+  align-items: center;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 16px;
+  position: absolute;
+  height: 151.88px;
+  top: -39.881px;
+  right: 0;
+  left: 0;
+  z-index: 200;
+}
+.container-db {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 270px;
+  z-index: 201;
+  overflow: hidden;
+}
+.container-dc {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  height: 151.88px;
+  z-index: 202;
+}
+.mike-tyson-vs-jake-paul {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: url(./assets/images/9dc4b1a9-6d67-451b-ade6-2db27256aa7e.png)
+    no-repeat center;
+  background-size: 100% 100%;
+  z-index: 203;
+  overflow: hidden;
+}
+.container-dd {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 0;
+  gap: 5.2px;
+  position: relative;
+  min-width: 0;
+  padding: 0.8px 0 0 0;
+  z-index: 204;
+}
+.heading-de {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 438px;
+  z-index: 205;
+}
+.jake-paul-ejek-mike-tyson {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+  width: 438px;
+  height: 60px;
+  color: #464646;
+  font-family: Inter, var(--default-font-family);
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 30px;
+  text-align: left;
+  text-overflow: initial;
+  z-index: 206;
+  overflow: hidden;
+}
+.container-df {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  padding: 4.8px 0 2.05px 0;
+  z-index: 207;
+}
+.olahraga-e0 {
+  align-self: stretch;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 16px;
+  color: #cc0000;
+  font-family: Inter, var(--default-font-family);
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 208;
+}
+.background-e1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 16px;
+  position: relative;
+  padding: 0 0 16px 0;
+  background: #001541;
+  z-index: 209;
+}
+.container-e2 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 764px;
+  padding: 12px 16px 12px 16px;
+  z-index: 210;
+}
+.container-e3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 98px;
+  z-index: 211;
+}
+.edusports {
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 24px;
+  color: #ffffff;
+  font-family: Inter, var(--default-font-family);
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 212;
+}
+.background-e4 {
+  flex-shrink: 0;
+  position: absolute;
+  width: 32px;
+  height: 3px;
+  bottom: 0;
+  left: 16px;
+  background: #cc0000;
+  z-index: 215;
+}
+.link-e5 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 95px;
+  z-index: 213;
+}
+.lihat-semua-e6 {
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 20px;
+  color: #ffffff;
+  font-family: Inter, var(--default-font-family);
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 20px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 214;
+}
+.container-e7 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 16px;
+  position: relative;
+  padding: 0 0.02px 0 0;
+  z-index: 216;
+}
+.article-e8 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 233.32px;
+  z-index: 217;
+}
+.component-e9 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 16px;
+  position: relative;
+  min-width: 0;
+  z-index: 218;
+}
+.container-ea {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 233.32px;
+  z-index: 219;
+  overflow: hidden;
+}
+.container-eb {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  height: 131.24px;
+  z-index: 220;
+}
+.edusports-sejarah-futsal {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: url(./assets/images/54c17612-5a84-47d5-ae39-afc2239f20c2.png)
+    no-repeat center;
+  background-size: 100% 100%;
+  z-index: 221;
+  overflow: hidden;
+}
+.container-ec {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 233.32px;
+  height: 64.85px;
+  z-index: 222;
+}
+.heading-ed {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  z-index: 223;
+}
+.edusports-sejarah-futsal-ee {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  width: 233.32px;
+  height: 42px;
+  color: #ffffff;
+  font-family: Inter, var(--default-font-family);
+  font-size: 13.890625px;
+  font-weight: 500;
+  line-height: 21px;
+  text-align: left;
+  text-overflow: initial;
+  z-index: 224;
+  overflow: hidden;
+}
+.container-ef {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  padding: 4.8px 0 2.05px 0;
+  z-index: 225;
+}
+.olahraga-f0 {
+  align-self: stretch;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 16px;
+  color: #f5a623;
+  font-family: Inter, var(--default-font-family);
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 226;
+}
+.article-f1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 233.34px;
+  z-index: 227;
+}
+.component-f2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 16px;
+  position: relative;
+  min-width: 0;
+  z-index: 228;
+}
+.container-f3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 233.34px;
+  z-index: 229;
+  overflow: hidden;
+}
+.container-f4 {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  height: 131.25px;
+  z-index: 230;
+}
+.edusports-juara-dunia-motogp {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: url(./assets/images/560334cd-56b1-446f-9553-2baaaf2cbae5.png)
+    no-repeat center;
+  background-size: 100% 100%;
+  z-index: 231;
+  overflow: hidden;
+}
+.container-f5 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 233.34px;
+  height: 64.85px;
+  z-index: 232;
+}
+.heading-f6 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  z-index: 233;
+}
+.edusports-juara-dunia-motogp-f7 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  width: 233.34px;
+  height: 42px;
+  color: #ffffff;
+  font-family: Inter, var(--default-font-family);
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 21px;
+  text-align: left;
+  text-overflow: initial;
+  z-index: 234;
+  overflow: hidden;
+}
+.container-f8 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  padding: 4.8px 0 2.05px 0;
+  z-index: 235;
+}
+.olahraga-f9 {
+  align-self: stretch;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 16px;
+  color: #f5a623;
+  font-family: Inter, var(--default-font-family);
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 236;
+}
+.article-fa {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 233.32px;
+  z-index: 237;
+}
+.component-fb {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 16px;
+  position: relative;
+  min-width: 0;
+  z-index: 238;
+}
+.container-fc {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 233.32px;
+  z-index: 239;
+  overflow: hidden;
+}
+.container-fd {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  height: 131.24px;
+  z-index: 240;
+}
+.edusports-sejarah-timnas-indonesia {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: url(./assets/images/221aa4ea-5ff1-4789-9987-eaff564563b0.png)
+    no-repeat center;
+  background-size: 100% 100%;
+  z-index: 241;
+  overflow: hidden;
+}
+.container-fe {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 233.32px;
+  height: 64.85px;
+  z-index: 242;
+}
+.heading-ff {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  z-index: 243;
+}
+.edusports-sejarah-timnas-indonesia-100 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  width: 233.32px;
+  height: 42px;
+  color: #ffffff;
+  font-family: Inter, var(--default-font-family);
+  font-size: 13.78125px;
+  font-weight: 500;
+  line-height: 21px;
+  text-align: left;
+  text-overflow: initial;
+  z-index: 244;
+  overflow: hidden;
+}
+.container-101 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  padding: 4.8px 0 2.05px 0;
+  z-index: 245;
+}
+.olahraga-102 {
+  align-self: stretch;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 16px;
+  color: #f5a623;
+  font-family: Inter, var(--default-font-family);
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 246;
+}
+.frame-103 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 34px;
+  position: relative;
+  width: 756px;
+  z-index: 247;
+}
+.component-104 {
+  display: flex;
+  align-items: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 16px;
+  position: relative;
+  min-width: 0;
+  z-index: 248;
+}
+.container-105 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 270px;
+  z-index: 249;
+  overflow: hidden;
+}
+.container-106 {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  height: 151.88px;
+  z-index: 250;
+}
+.timnas-jepang-vs-timnas-indonesia-107 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: url(./assets/images/cec196bf-d23b-478e-ae24-93494276d66f.png)
+    no-repeat center;
+  background-size: 100% 100%;
+  z-index: 251;
+  overflow: hidden;
+}
+.container-108 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 0;
+  gap: 5.2px;
+  position: relative;
+  padding: 0.8px 0 0 0;
+  z-index: 252;
+}
+.heading-109 {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 464px;
+  z-index: 253;
+}
+.kubo-mau-indonesia-10a {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+  width: 464px;
+  height: 60px;
+  color: #464646;
+  font-family: Inter, var(--default-font-family);
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 30px;
+  text-align: left;
+  text-overflow: initial;
+  z-index: 254;
+  overflow: hidden;
+}
+.container-10b {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  padding: 4.8px 0 2.05px 0;
+  z-index: 255;
+}
+.olahraga-10c {
+  align-self: stretch;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 16px;
+  color: #cc0000;
+  font-family: Inter, var(--default-font-family);
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 256;
+}
+.component-10d {
+  display: flex;
+  align-items: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 16px;
+  position: relative;
+  min-width: 0;
+  z-index: 257;
+}
+.container-10e {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 270px;
+  z-index: 258;
+  overflow: hidden;
+}
+.container-10f {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  height: 151.88px;
+  z-index: 259;
+}
+.mike-tyson-vs-jake-paul-110 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: url(./assets/images/21d35bf9-20a5-43bc-a64a-b1257a9f375b.png)
+    no-repeat center;
+  background-size: 100% 100%;
+  z-index: 260;
+  overflow: hidden;
+}
+.container-111 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 0;
+  gap: 5.2px;
+  position: relative;
+  padding: 0.8px 0 0 0;
+  z-index: 261;
+}
+.heading-112 {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 420px;
+  z-index: 262;
+}
+.alasan-mike-tyson-tampar {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+  width: 420px;
+  height: 60px;
+  color: #464646;
+  font-family: Inter, var(--default-font-family);
+  font-size: 19.84375px;
+  font-weight: 500;
+  line-height: 30px;
+  text-align: left;
+  text-overflow: initial;
+  z-index: 263;
+  overflow: hidden;
+}
+.container-113 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  padding: 4.8px 0 2.05px 0;
+  z-index: 264;
+}
+.olahraga-114 {
+  align-self: stretch;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 16px;
+  color: #cc0000;
+  font-family: Inter, var(--default-font-family);
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 265;
+}
+.component-115 {
+  display: flex;
+  align-items: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 16px;
+  position: relative;
+  min-width: 0;
+  z-index: 266;
+}
+.container-116 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 270px;
+  z-index: 267;
+  overflow: hidden;
+}
+.container-117 {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  height: 151.88px;
+  z-index: 268;
+}
+.mike-tyson-vs-jake-paul-118 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: url(./assets/images/b7cd18b4-5156-4d98-abdd-eb022ffae18d.png)
+    no-repeat center;
+  background-size: 100% 100%;
+  z-index: 269;
+  overflow: hidden;
+}
+.container-119 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 0;
+  gap: 5.2px;
+  position: relative;
+  padding: 0.8px 0 0 0;
+  z-index: 270;
+}
+.heading-11a {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 435px;
+  z-index: 271;
+}
+.mike-tyson-tampar-jake-paul-11b {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+  width: 435px;
+  height: 60px;
+  color: #464646;
+  font-family: Inter, var(--default-font-family);
+  font-size: 19.84375px;
+  font-weight: 500;
+  line-height: 30px;
+  text-align: left;
+  text-overflow: initial;
+  z-index: 272;
+  overflow: hidden;
+}
+.container-11c {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  padding: 4.8px 0 2.05px 0;
+  z-index: 273;
+}
+.olahraga-11d {
+  align-self: stretch;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 16px;
+  color: #cc0000;
+  font-family: Inter, var(--default-font-family);
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 274;
+}
+.component-11e {
+  display: flex;
+  align-items: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 16px;
+  position: relative;
+  min-width: 0;
+  z-index: 275;
+}
+.container-11f {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 270px;
+  z-index: 276;
+  overflow: hidden;
+}
+.container-120 {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  height: 151.88px;
+  z-index: 277;
+}
+.paraguay-vs-argentina {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: url(./assets/images/f4587f63-415c-4c66-b8fd-16425937e2d4.png)
+    no-repeat center;
+  background-size: 100% 100%;
+  z-index: 278;
+  overflow: hidden;
+}
+.container-121 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 0;
+  gap: 5.21px;
+  position: relative;
+  padding: 0.79px 0 0 0;
+  z-index: 279;
+}
+.heading-122 {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 428px;
+  z-index: 280;
+}
+.hasil-kualifikasi-piala-dunia {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+  width: 428px;
+  height: 60px;
+  color: #464646;
+  font-family: Inter, var(--default-font-family);
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 30px;
+  text-align: left;
+  text-overflow: initial;
+  z-index: 281;
+  overflow: hidden;
+}
+.container-123 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  padding: 4.79px 0 2.06px 0;
+  z-index: 282;
+}
+.olahraga-124 {
+  align-self: stretch;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 16px;
+  color: #cc0000;
+  font-family: Inter, var(--default-font-family);
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 283;
+}
+.component-125 {
+  display: flex;
+  align-items: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 16px;
+  position: relative;
+  min-width: 0;
+  z-index: 284;
+}
+.container-126 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 270px;
+  z-index: 285;
+  overflow: hidden;
+}
+.container-127 {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  height: 151.88px;
+  z-index: 286;
+}
+.soccer {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: url(./assets/images/0a6f51bc-11dc-4091-9eaa-d1b08e9d821d.png)
+    no-repeat center;
+  background-size: 100% 100%;
+  z-index: 287;
+  overflow: hidden;
+}
+.container-128 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 0;
+  gap: 5.2px;
+  position: relative;
+  padding: 0.8px 0 0 0;
+  z-index: 288;
+}
+.heading-129 {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 373px;
+  z-index: 289;
+}
+.prediksi-timnas-indonesia-vs-jepang {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+  width: 373px;
+  height: 60px;
+  color: #464646;
+  font-family: Inter, var(--default-font-family);
+  font-size: 19.84375px;
+  font-weight: 500;
+  line-height: 30px;
+  text-align: left;
+  text-overflow: initial;
+  z-index: 290;
+  overflow: hidden;
+}
+.container-12a {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  padding: 4.8px 0 2.05px 0;
+  z-index: 291;
+}
+.olahraga-12b {
+  align-self: stretch;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 16px;
+  color: #cc0000;
+  font-family: Inter, var(--default-font-family);
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 292;
+}
+.component-12c {
+  display: flex;
+  align-items: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 16px;
+  position: relative;
+  min-width: 0;
+  z-index: 293;
+}
+.container-12d {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 270px;
+  z-index: 294;
+  overflow: hidden;
+}
+.container-12e {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  height: 151.88px;
+  z-index: 295;
+}
+.open-workout-jake-paul-vs-mike-tyson {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: url(./assets/images/12acee76-7cad-419f-9613-c8c26cffa450.png)
+    no-repeat center;
+  background-size: 100% 100%;
+  z-index: 296;
+  overflow: hidden;
+}
+.container-12f {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 0;
+  gap: 5.21px;
+  position: relative;
+  padding: 0.79px 0 0 0;
+  z-index: 297;
+}
+.heading-130 {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 384px;
+  z-index: 298;
+}
+.usai-lawan-jake-paul-131 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+  width: 384px;
+  height: 60px;
+  color: #464646;
+  font-family: Inter, var(--default-font-family);
+  font-size: 19.84375px;
+  font-weight: 500;
+  line-height: 30px;
+  text-align: left;
+  text-overflow: initial;
+  z-index: 299;
+  overflow: hidden;
+}
+.container-132 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  padding: 4.79px 0 2.06px 0;
+  z-index: 300;
+}
+.olahraga-133 {
+  align-self: stretch;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 16px;
+  color: #cc0000;
+  font-family: Inter, var(--default-font-family);
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 301;
+}
+.background-border {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 16px;
+  position: relative;
+  padding: 0.8px 0 16.8px 0px;
+  background: #f2f4f5;
+  border: 1px solid #e5e7eb;
+  z-index: 302;
+}
+.container-134 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 762.4px;
+  padding: 12px 16px 12px 16px;
+  z-index: 303;
+}
+.container-135 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 168px;
+  z-index: 304;
+}
+.analisis-olahraga {
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 24px;
+  color: #333333;
+  font-family: Inter, var(--default-font-family);
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 305;
+}
+.background-136 {
+  flex-shrink: 0;
+  position: absolute;
+  width: 32px;
+  height: 3px;
+  bottom: 0;
+  left: 16px;
+  background: #cc0000;
+  z-index: 308;
+}
+.link-137 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 95px;
+  z-index: 306;
+}
+.lihat-semua-138 {
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 20px;
+  color: #333333;
+  font-family: Inter, var(--default-font-family);
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 20px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 307;
+}
+.container-139 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 16px;
+  position: relative;
+  z-index: 309;
+}
+.article-13a {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 232.8px;
+  z-index: 310;
+}
+.component-13b {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 16px;
+  position: relative;
+  min-width: 0;
+  z-index: 311;
+}
+.container-13c {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 232.8px;
+  z-index: 312;
+  overflow: hidden;
+}
+.container-13d {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  height: 130.95px;
+  z-index: 313;
+}
+.timnas-bahrain-vs-indonesia {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: url(./assets/images/bb54bb2f-b8b0-430f-8cd0-5eb5cf2e8282.png)
+    no-repeat center;
+  background-size: 100% 100%;
+  z-index: 314;
+  overflow: hidden;
+}
+.container-13e {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 232.8px;
+  height: 64.85px;
+  z-index: 315;
+}
+.heading-13f {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  z-index: 316;
+}
+.asmara-cinta-timnas-indonesia {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  width: 232.8px;
+  height: 42px;
+  color: #464646;
+  font-family: Inter, var(--default-font-family);
+  font-size: 13.890625px;
+  font-weight: 500;
+  line-height: 21px;
+  text-align: left;
+  text-overflow: initial;
+  z-index: 317;
+  overflow: hidden;
+}
+.container-140 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  padding: 4.8px 0 2.05px 0;
+  z-index: 318;
+}
+.olahraga-141 {
+  align-self: stretch;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 16px;
+  color: #cc0000;
+  font-family: Inter, var(--default-font-family);
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 319;
+}
+.article-142 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 232.8px;
+  z-index: 320;
+}
+.component-143 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 16px;
+  position: relative;
+  min-width: 0;
+  z-index: 321;
+}
+.container-144 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 232.8px;
+  z-index: 322;
+  overflow: hidden;
+}
+.container-145 {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  height: 130.95px;
+  z-index: 323;
+}
+.timnas-indonesia-lawan-arab-saudi {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: url(./assets/images/384b44bf-ce42-44d5-ab6d-c5ce458d6589.png)
+    no-repeat center;
+  background-size: 100% 100%;
+  z-index: 324;
+  overflow: hidden;
+}
+.container-146 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 232.8px;
+  height: 64.85px;
+  z-index: 325;
+}
+.heading-147 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  z-index: 326;
+}
+.mengintip-celah-sempit-indonesia {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  width: 232.8px;
+  height: 42px;
+  color: #464646;
+  font-family: Inter, var(--default-font-family);
+  font-size: 13.890625px;
+  font-weight: 500;
+  line-height: 21px;
+  text-align: left;
+  text-overflow: initial;
+  z-index: 327;
+  overflow: hidden;
+}
+.section-44 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  padding: 4.8px 0 2.05px 0;
+  z-index: 328;
+}
+.olahraga-148 {
+  align-self: stretch;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 16px;
+  color: #cc0000;
+  font-family: Inter, var(--default-font-family);
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 329;
+}
+.article-149 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 232.8px;
+  z-index: 330;
+}
+.component-14a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 16px;
+  position: relative;
+  min-width: 0;
+  z-index: 331;
+}
+.container-14b {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 232.8px;
+  z-index: 332;
+  overflow: hidden;
+}
+.container-14c {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  height: 130.95px;
+  z-index: 333;
+}
+.real-betis-vs-fc-copenhagen {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: url(./assets/images/8ea7613b-524d-4d04-8549-15977d989889.png)
+    no-repeat center;
+  background-size: 100% 100%;
+  z-index: 334;
+  overflow: hidden;
+}
+.container-14d {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 232.8px;
+  height: 85.85px;
+  z-index: 335;
+}
+.heading-14e {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  z-index: 336;
+}
+.apakah-kevin-diks-jadi {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  width: 232.8px;
+  height: 63px;
+  color: #464646;
+  font-family: Inter, var(--default-font-family);
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 21px;
+  text-align: left;
+  text-overflow: initial;
+  z-index: 337;
+  overflow: hidden;
+}
+.container-14f {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  padding: 4.8px 0 2.05px 0;
+  z-index: 338;
+}
+.olahraga-150 {
+  align-self: stretch;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 16px;
+  color: #cc0000;
+  font-family: Inter, var(--default-font-family);
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 339;
+}
+.frame-151 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 34px;
+  position: relative;
+  width: 756px;
+  z-index: 340;
+}
+.component-152 {
+  display: flex;
+  align-items: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 16px;
+  position: relative;
+  min-width: 0;
+  z-index: 341;
+}
+.container-153 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 270px;
+  z-index: 342;
+  overflow: hidden;
+}
+.container-154 {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  height: 151.88px;
+  z-index: 343;
+}
+.bahrain-vs-indonesia {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: url(./assets/images/bb07c3b4-c5e2-47d3-b301-ee6dad5f63e3.png)
+    no-repeat center;
+  background-size: 100% 100%;
+  z-index: 344;
+  overflow: hidden;
+}
+.container-155 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 0;
+  gap: 5.2px;
+  position: relative;
+  padding: 0.8px 0 0 0;
+  z-index: 345;
+}
+.heading-156 {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 455px;
+  z-index: 346;
+}
+.syarat-timnas-indonesia {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+  width: 455px;
+  height: 60px;
+  color: #464646;
+  font-family: Inter, var(--default-font-family);
+  font-size: 19.84375px;
+  font-weight: 500;
+  line-height: 30px;
+  text-align: left;
+  text-overflow: initial;
+  z-index: 347;
+  overflow: hidden;
+}
+.container-157 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  padding: 4.8px 0 2.05px 0;
+  z-index: 348;
+}
+.olahraga-158 {
+  align-self: stretch;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 16px;
+  color: #cc0000;
+  font-family: Inter, var(--default-font-family);
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 349;
+}
+.component-159 {
+  display: flex;
+  align-items: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 16px;
+  position: relative;
+  min-width: 0;
+  z-index: 350;
+}
+.container-15a {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 270px;
+  z-index: 351;
+  overflow: hidden;
+}
+.container-15b {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  height: 151.88px;
+  z-index: 352;
+}
+.qatar-vs-uzbekistan {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: url(./assets/images/7128ea1c-6726-4419-825a-3d8188be8568.png)
+    no-repeat center;
+  background-size: 100% 100%;
+  z-index: 353;
+  overflow: hidden;
+}
+.container-15c {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 0;
+  gap: 5.2px;
+  position: relative;
+  padding: 0.8px 0 0 0;
+  z-index: 354;
+}
+.heading-15d {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 430px;
+  z-index: 355;
+}
+.kontroversi-kemenangan-qatar-15e {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+  width: 430px;
+  height: 60px;
+  color: #464646;
+  font-family: Inter, var(--default-font-family);
+  font-size: 19.84375px;
+  font-weight: 500;
+  line-height: 30px;
+  text-align: left;
+  text-overflow: initial;
+  z-index: 356;
+  overflow: hidden;
+}
+.container-15f {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  padding: 4.8px 0 2.05px 0;
+  z-index: 357;
+}
+.olahraga-160 {
+  align-self: stretch;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 16px;
+  color: #cc0000;
+  font-family: Inter, var(--default-font-family);
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 358;
+}
+.component-161 {
+  display: flex;
+  align-items: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 16px;
+  position: relative;
+  min-width: 0;
+  z-index: 359;
+}
+.container-162 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 270px;
+  z-index: 360;
+  overflow: hidden;
+}
+.container-163 {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  height: 151.88px;
+  z-index: 361;
+}
+.timnas-bahrain-vs-indonesia-164 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: url(./assets/images/544a5fb3-90b0-4a1e-b5a4-955704b728f4.png)
+    no-repeat center;
+  background-size: 100% 100%;
+  z-index: 362;
+  overflow: hidden;
+}
+.container-165 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 0;
+  gap: 5.2px;
+  position: relative;
+  padding: 0.8px 0 0 0;
+  z-index: 363;
+}
+.heading-166 {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 449px;
+  z-index: 364;
+}
+.asmara-cinta-timnas-indonesia-167 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+  width: 449px;
+  height: 60px;
+  color: #464646;
+  font-family: Inter, var(--default-font-family);
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 30px;
+  text-align: left;
+  text-overflow: initial;
+  z-index: 365;
+  overflow: hidden;
+}
+.container-168 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  padding: 4.8px 0 2.05px 0;
+  z-index: 366;
+}
+.olahraga-169 {
+  align-self: stretch;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 16px;
+  color: #cc0000;
+  font-family: Inter, var(--default-font-family);
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 367;
+}
+.component-16a {
+  display: flex;
+  align-items: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 16px;
+  position: relative;
+  min-width: 0;
+  z-index: 368;
+}
+.container-16b {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 270px;
+  z-index: 369;
+  overflow: hidden;
+}
+.container-16c {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  height: 151.88px;
+  z-index: 370;
+}
+.mike-tyson {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: url(./assets/images/29590047-8f96-4033-954e-ad1f293918c3.png)
+    no-repeat center;
+  background-size: 100% 100%;
+  z-index: 371;
+  overflow: hidden;
+}
+.container-16d {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 0;
+  gap: 5.2px;
+  position: relative;
+  padding: 0.8px 0 0 0;
+  z-index: 372;
+}
+.heading-16e {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 435px;
+  z-index: 373;
+}
+.top-sports-china-hajar {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+  width: 435px;
+  height: 60px;
+  color: #464646;
+  font-family: Inter, var(--default-font-family);
+  font-size: 19.6875px;
+  font-weight: 500;
+  line-height: 30px;
+  text-align: left;
+  text-overflow: initial;
+  z-index: 374;
+  overflow: hidden;
+}
+.container-16f {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  padding: 4.8px 0 2.05px 0;
+  z-index: 375;
+}
+.olahraga-170 {
+  align-self: stretch;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 16px;
+  color: #cc0000;
+  font-family: Inter, var(--default-font-family);
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 376;
+}
+.component-171 {
+  display: flex;
+  align-items: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 16px;
+  position: relative;
+  min-width: 0;
+  z-index: 377;
+}
+.container-172 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 270px;
+  z-index: 378;
+  overflow: hidden;
+}
+.container-173 {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  height: 151.88px;
+  z-index: 379;
+}
+.timnas-bahrain-vs-indonesia-174 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: url(./assets/images/307787e1-4bb1-4f15-aa22-294a069eaf12.png)
+    no-repeat center;
+  background-size: 100% 100%;
+  z-index: 380;
+  overflow: hidden;
+}
+.container-175 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 0;
+  gap: 5.2px;
+  position: relative;
+  padding: 0.8px 0 0 0;
+  z-index: 381;
+}
+.heading-176 {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 457px;
+  z-index: 382;
+}
+.jadwal-siaran-langsung-indonesia {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+  width: 457px;
+  height: 60px;
+  color: #464646;
+  font-family: Inter, var(--default-font-family);
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 30px;
+  text-align: left;
+  text-overflow: initial;
+  z-index: 383;
+  overflow: hidden;
+}
+.container-177 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  padding: 4.8px 0 2.05px 0;
+  z-index: 384;
+}
+.olahraga-178 {
+  align-self: stretch;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 16px;
+  color: #cc0000;
+  font-family: Inter, var(--default-font-family);
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 385;
+}
+.background-border-179 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 16px;
+  position: relative;
+  padding: 0.8px 0 16.8px 0px;
+  background: #f2f4f5;
+  border: 1px solid #e5e7eb;
+  z-index: 386;
+}
+.container-17a {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 762.4px;
+  padding: 12px 16px 12px 16px;
+  z-index: 387;
+}
+.container-17b {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 89px;
+  z-index: 388;
+}
+.testimoni {
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 24px;
+  color: #333333;
+  font-family: Inter, var(--default-font-family);
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 389;
+}
+.background-17c {
+  flex-shrink: 0;
+  position: absolute;
+  width: 32px;
+  height: 3px;
+  bottom: 0;
+  left: 16px;
+  background: #cc0000;
+  z-index: 392;
+}
+.link-17d {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 95px;
+  z-index: 390;
+}
+.lihat-semua-17e {
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 20px;
+  color: #333333;
+  font-family: Inter, var(--default-font-family);
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 20px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 391;
+}
+.container-17f {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 16px;
+  position: relative;
+  z-index: 393;
+}
+.article-180 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 232.8px;
+  z-index: 394;
+}
+.component-181 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 16px;
+  position: relative;
+  min-width: 0;
+  z-index: 395;
+}
+.container-182 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 232.8px;
+  z-index: 396;
+  overflow: hidden;
+}
+.container-183 {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  height: 130.95px;
+  z-index: 397;
+}
+.hendra-basir {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: url(./assets/images/38566a6d-b505-4d31-a56d-89e0add9536f.png)
+    no-repeat center;
+  background-size: 100% 100%;
+  z-index: 398;
+  overflow: hidden;
+}
+.container-184 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 232.8px;
+  height: 64.85px;
+  z-index: 399;
+}
+.heading-185 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  z-index: 400;
+}
+.hendra-basir-dan-detik-detik {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  width: 232.8px;
+  height: 42px;
+  color: #464646;
+  font-family: Inter, var(--default-font-family);
+  font-size: 13.890625px;
+  font-weight: 500;
+  line-height: 21px;
+  text-align: left;
+  text-overflow: initial;
+  z-index: 401;
+  overflow: hidden;
+}
+.container-186 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  padding: 4.8px 0 2.05px 0;
+  z-index: 402;
+}
+.olahraga-187 {
+  align-self: stretch;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 16px;
+  color: #cc0000;
+  font-family: Inter, var(--default-font-family);
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 403;
+}
+.article-188 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 232.8px;
+  z-index: 404;
+}
+.component-189 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 16px;
+  position: relative;
+  min-width: 0;
+  z-index: 405;
+}
+.container-18a {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 232.8px;
+  z-index: 406;
+  overflow: hidden;
+}
+.container-18b {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  height: 130.95px;
+  z-index: 407;
+}
+.cedb-bb-caedff {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: url(./assets/images/026a4c41-1b7e-49db-9666-f2cda7ce99b4.png)
+    no-repeat center;
+  background-size: 100% 100%;
+  z-index: 408;
+  overflow: hidden;
+}
+.container-18c {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 232.8px;
+  height: 64.85px;
+  z-index: 409;
+}
+.heading-18d {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  z-index: 410;
+}
+.bio-paulin-tentang-persipura {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  width: 232.8px;
+  height: 42px;
+  color: #464646;
+  font-family: Inter, var(--default-font-family);
+  font-size: 13.890625px;
+  font-weight: 500;
+  line-height: 21px;
+  text-align: left;
+  text-overflow: initial;
+  z-index: 411;
+  overflow: hidden;
+}
+.container-18e {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  padding: 4.8px 0 2.05px 0;
+  z-index: 412;
+}
+.olahraga-18f {
+  align-self: stretch;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 16px;
+  color: #cc0000;
+  font-family: Inter, var(--default-font-family);
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 413;
+}
+.article-190 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 232.8px;
+  z-index: 414;
+}
+.component-191 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 16px;
+  position: relative;
+  min-width: 0;
+  z-index: 415;
+}
+.container-192 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 232.8px;
+  z-index: 416;
+  overflow: hidden;
+}
+.container-193 {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  height: 130.95px;
+  z-index: 417;
+}
+.bonit-wiryawan {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: url(./assets/images/618a743f-b553-4dfb-8828-481d0bc5d347.png)
+    no-repeat center;
+  background-size: 100% 100%;
+  z-index: 418;
+  overflow: hidden;
+}
+.container-194 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 232.8px;
+  height: 85.85px;
+  z-index: 419;
+}
+.heading-195 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  z-index: 420;
+}
+.bonit-wiryawan-batal-jadi-dokter {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  width: 232.8px;
+  height: 63px;
+  color: #464646;
+  font-family: Inter, var(--default-font-family);
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 21px;
+  text-align: left;
+  text-overflow: initial;
+  z-index: 421;
+  overflow: hidden;
+}
+.container-196 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  padding: 4.8px 0 2.05px 0;
+  z-index: 422;
+}
+.olahraga-197 {
+  align-self: stretch;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 16px;
+  color: #cc0000;
+  font-family: Inter, var(--default-font-family);
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 423;
+}
+.frame-198 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 34px;
+  position: relative;
+  width: 756px;
+  z-index: 424;
+}
+.component-199 {
+  display: flex;
+  align-items: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 16px;
+  position: relative;
+  min-width: 0;
+  z-index: 425;
+}
+.container-19a {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 270px;
+  z-index: 426;
+  overflow: hidden;
+}
+.container-19b {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  height: 151.88px;
+  z-index: 427;
+}
+.timnas-china-vs-timnas-indonesia-19c {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: url(./assets/images/089d72ac-68f0-4044-a97f-3a8ebf74108b.png)
+    no-repeat center;
+  background-size: 100% 100%;
+  z-index: 428;
+  overflow: hidden;
+}
+.container-19d {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 0;
+  gap: 5.19px;
+  position: relative;
+  padding: 0.81px 0 0 0;
+  z-index: 429;
+}
+.heading-19e {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 443px;
+  z-index: 430;
+}
+.klasemen-sementara-grup-c {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+  width: 443px;
+  height: 60px;
+  color: #464646;
+  font-family: Inter, var(--default-font-family);
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 30px;
+  text-align: left;
+  text-overflow: initial;
+  z-index: 431;
+  overflow: hidden;
+}
+.container-19f {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  padding: 4.81px 0 2.04px 0;
+  z-index: 432;
+}
+.olahraga-1a0 {
+  align-self: stretch;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 16px;
+  color: #cc0000;
+  font-family: Inter, var(--default-font-family);
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 433;
+}
+.component-1a1 {
+  display: flex;
+  align-items: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 16px;
+  position: relative;
+  min-width: 0;
+  z-index: 434;
+}
+.container-1a2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 270px;
+  z-index: 435;
+  overflow: hidden;
+}
+.container-1a3 {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  height: 151.88px;
+  z-index: 436;
+}
+.konferensi-pers-jelang-mike-tyson-vs-jake-paul {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: url(./assets/images/83995fdf-a990-4aa9-9c87-67839b4b677d.png)
+    no-repeat center;
+  background-size: 100% 100%;
+  z-index: 437;
+  overflow: hidden;
+}
+.container-1a4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 0;
+  gap: 4.2px;
+  position: relative;
+  z-index: 438;
+}
+.heading-jadwal-siaran-langsung-mike-tyson-vs-jake-paul {
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 30px;
+  color: #464646;
+  font-family: Inter, var(--default-font-family);
+  font-size: 19.84375px;
+  font-weight: 500;
+  line-height: 30px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 439;
+}
+.container-1a5 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  padding: 4.8px 0 2.05px 0;
+  z-index: 440;
+}
+.olahraga-1a6 {
+  align-self: stretch;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 16px;
+  color: #cc0000;
+  font-family: Inter, var(--default-font-family);
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 441;
+}
+.component-1a7 {
+  display: flex;
+  align-items: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 16px;
+  position: relative;
+  min-width: 0;
+  z-index: 442;
+}
+.container-1a8 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 270px;
+  z-index: 443;
+  overflow: hidden;
+}
+.container-1a9 {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  height: 151.88px;
+  z-index: 444;
+}
+.jay-idzes {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: url(./assets/images/452a0a8b-0326-4496-88a4-1c05dd886947.png)
+    no-repeat center;
+  background-size: 100% 100%;
+  z-index: 445;
+  overflow: hidden;
+}
+.container-1aa {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 0;
+  gap: 5.19px;
+  position: relative;
+  padding: 0.81px 0 0 0;
+  z-index: 446;
+}
+.heading-1ab {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 385px;
+  z-index: 447;
+}
+.singgung-atmosfer-gbk {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+  width: 385px;
+  height: 60px;
+  color: #464646;
+  font-family: Inter, var(--default-font-family);
+  font-size: 19.84375px;
+  font-weight: 500;
+  line-height: 30px;
+  text-align: left;
+  text-overflow: initial;
+  z-index: 448;
+  overflow: hidden;
+}
+.container-1ac {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  padding: 4.81px 0 2.04px 0;
+  z-index: 449;
+}
+.olahraga-1ad {
+  align-self: stretch;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 16px;
+  color: #cc0000;
+  font-family: Inter, var(--default-font-family);
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 450;
+}
+.container-1ae {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  padding: 0 301.43px 0 301.41px;
+  z-index: 451;
+}
+.component-1af {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 150.6px;
+  padding: 8.8px 16.8px 8.8px 16.8px;
+  border: 1px solid #cc0000;
+  z-index: 452;
+}
+.text-1b0 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  width: 117px;
+  height: 24px;
+  color: #cc0000;
+  font-family: Inter, var(--default-font-family);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: center;
+  white-space: nowrap;
+  z-index: 453;
+}
+.container-1b1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 300px;
+  z-index: 454;
+}
+.section-1b2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  height: 764px;
+  padding: 0 0 20px 0;
+  z-index: 455;
+}
+.section-1b3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  padding: 0 0 20px 0;
+  z-index: 456;
+}
+.container-1b4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 16px;
+  position: relative;
+  z-index: 457;
+}
+.container-1b5 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  padding: 12px 0px 12px 0;
+  z-index: 458;
+}
+.background-1b6 {
+  flex-shrink: 0;
+  position: absolute;
+  width: 32px;
+  height: 3px;
+  bottom: 0;
+  left: 0;
+  background: #cc0000;
+  z-index: 459;
+}
+.fokus {
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 24px;
+  color: #333333;
+  font-family: Inter, var(--default-font-family);
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 460;
+}
+.component-1b7 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 16px;
+  z-index: 461;
+}
+.icon-chevron-right-red {
+  flex-shrink: 0;
+  position: relative;
+  width: 16px;
+  height: 16px;
+  background: url(./assets/images/5c09d75d-1035-43c6-ac5e-930aa6376670.png)
+    no-repeat center;
+  background-size: cover;
+  z-index: 462;
+  overflow: hidden;
+  max-width: 16px;
+}
+.component-1b8 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  padding: 4px 0 0 0;
+  z-index: 463;
+}
+.container-1b9 {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  height: 131.25px;
+  z-index: 464;
+  overflow: hidden;
+}
+.cover-fokus-timnas-indonesia-kualifikasi-piala-dunia-vs-bahrain-dan-china {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: url(./assets/images/f62bd3fe-4644-4a45-9de6-026f59ca4ee8.png)
+    no-repeat center;
+  background-size: 100% 100%;
+  z-index: 465;
+  overflow: hidden;
+}
+.background-1ba {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: absolute;
+  height: 56px;
+  right: 16px;
+  bottom: 4px;
+  left: 16px;
+  padding: 8px 8px 8px 8px;
+  background: #001541;
+  z-index: 466;
+}
+.heading-1bb {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  padding: 0 21.27px 0 21.28px;
+  z-index: 467;
+}
+.text-1bc {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  width: 209.45px;
+  font-family: Inter, var(--default-font-family);
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  text-align: center;
+  text-overflow: initial;
+  white-space: nowrap;
+  z-index: 468;
+}
+.laga-tandang-krusial-timnas-indonesia-vs-bahrain {
+  position: relative;
+  color: #ffffff;
+  font-family: Inter, var(--default-font-family);
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  text-align: center;
+}
+.component-1bd {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  padding: 4px 0 0 0;
+  z-index: 469;
+}
+.container-1be {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  height: 131.25px;
+  z-index: 470;
+  overflow: hidden;
+}
+.cover-fokus-motogp-mandalika {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: url(./assets/images/a5c49594-68f1-4a1e-987a-640022995805.png)
+    no-repeat center;
+  background-size: 100% 100%;
+  z-index: 471;
+  overflow: hidden;
+}
+.background-1bf {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: absolute;
+  height: 56px;
+  right: 16px;
+  bottom: 4px;
+  left: 16px;
+  padding: 8px 8px 8px 8px;
+  background: #001541;
+  z-index: 472;
+}
+.heading-1c0 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  padding: 0 27.97px 0 27.96px;
+  z-index: 473;
+}
+.text-1c1 {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  font-family: Inter, var(--default-font-family);
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  text-align: center;
+  z-index: 474;
+}
+.gas-pol-di-motogp-mandalika {
+  position: relative;
+  color: #ffffff;
+  font-family: Inter, var(--default-font-family);
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  text-align: center;
+}
+.component-1c2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 300px;
+  z-index: 475;
+}
+.container-1c3 {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  height: 131.25px;
+  z-index: 476;
+  overflow: hidden;
+}
+.cover-fokus-timnas-indonesia-kualifikasi-piala-dunia-vs-jepang-dan-arab-saudi {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: url(./assets/images/6dbc1cc2-2a99-4f6c-ba4d-53aeeeb89a58.png)
+    no-repeat center;
+  background-size: 100% 100%;
+  z-index: 477;
+  overflow: hidden;
+}
+.background-1c4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: absolute;
+  height: 56px;
+  right: 13px;
+  bottom: 3.712px;
+  left: 13px;
+  padding: 8px 8px 8px 8px;
+  background: #001541;
+  z-index: 478;
+}
+.heading-1c5 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  padding: 0 5.02px 0 5.03px;
+  z-index: 479;
+}
+.text-1c6 {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  width: 247.95px;
+  font-family: Inter, var(--default-font-family);
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  text-align: center;
+  text-overflow: initial;
+  white-space: nowrap;
+  z-index: 480;
+}
+.indonesia-vs-jepang-dan-saudi-misi-penuh-tantangan {
+  position: relative;
+  color: #ffffff;
+  font-family: Inter, var(--default-font-family);
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  text-align: center;
+}
+.container-1c7 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 20px;
+  position: relative;
+  min-width: 0;
+  height: 579px;
+  z-index: 481;
+}
+.background-border-1c8 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 16px;
+  position: relative;
+  min-width: 0;
+  height: 455px;
+  padding: 0 0px 36.8px 0;
+  background: #f2f4f5;
+  border: 1px solid #e5e7eb;
+  z-index: 482;
+}
+.container-1c9 {
+  display: flex;
+  align-items: center;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 90.17px;
+  position: relative;
+  width: 306.4px;
+  padding: 12px 16px 12px 16px;
+  z-index: 483;
+}
+.container-1ca {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 88px;
+  z-index: 484;
+}
+.top-talks {
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 24px;
+  color: #333333;
+  font-family: Inter, var(--default-font-family);
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 485;
+}
+.background-1cb {
+  flex-shrink: 0;
+  position: absolute;
+  width: 32px;
+  height: 3px;
+  bottom: 0;
+  left: 16px;
+  background: #cc0000;
+  z-index: 488;
+}
+.link-1cc {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 95px;
+  z-index: 486;
+}
+.lihat-semua-1cd {
+  flex-shrink: 0;
+  position: relative;
+  width: 95px;
+  font-family: Inter, var(--default-font-family);
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 20px;
+  text-align: left;
+  text-overflow: initial;
+  white-space: nowrap;
+  z-index: 487;
+}
+.lihat-semua-1ce {
+  position: relative;
+  color: #333333;
+  font-family: Inter, var(--default-font-family);
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 20px;
+  text-align: left;
+}
+.container-1cf {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 16px;
+  position: relative;
+  z-index: 489;
+}
+.component-1d0 {
+  display: flex;
+  align-items: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 16px;
+  position: relative;
+  z-index: 490;
+}
+.container-1d1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 120px;
+  z-index: 491;
+  overflow: hidden;
+}
+.container-1d2 {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  height: 90px;
+  z-index: 492;
+}
+.ketua-kadin-arsjad-rasjid {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: url(./assets/images/a8d6c32a-2e78-42a2-94df-30fff5b35623.png)
+    no-repeat center;
+  background-size: 100% 100%;
+  z-index: 493;
+  overflow: hidden;
+}
+.container-1d3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 0;
+  position: relative;
+  z-index: 494;
+}
+.heading-1d4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  z-index: 495;
+  overflow: hidden;
+}
+.arsjad-rasjid-anak-tentara {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  width: 164px;
+  font-family: Inter, var(--default-font-family);
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 21px;
+  text-align: left;
+  text-overflow: initial;
+  white-space: nowrap;
+  z-index: 496;
+}
+.arsjad-rasjid-anak-tentara-1d5 {
+  position: relative;
+  color: #464646;
+  font-family: Inter, var(--default-font-family);
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 21px;
+  text-align: left;
+}
+.container-1d6 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  padding: 6.455px 0 2.105px 0;
+  z-index: 497;
+}
+.ekonomi-1d7 {
+  align-self: stretch;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 15px;
+  color: #cc0000;
+  font-family: Inter, var(--default-font-family);
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 14.29px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 498;
+}
+.component-1d8 {
+  display: flex;
+  align-items: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 16px;
+  position: relative;
+  z-index: 499;
+}
+.container-1d9 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 120px;
+  z-index: 500;
+  overflow: hidden;
+}
+.container-1da {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  height: 90px;
+  z-index: 501;
+}
+.thumbnail-video {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: url(./assets/images/3d9a8762-316e-46d2-968c-13d5da3fc5e1.png)
+    no-repeat center;
+  background-size: 100% 100%;
+  z-index: 502;
+  overflow: hidden;
+}
+.container-1db {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 0;
+  position: relative;
+  z-index: 503;
+}
+.heading-1dc {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  z-index: 504;
+  overflow: hidden;
+}
+.video-energi-hati-inspirasi {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  width: 164px;
+  height: 63px;
+  color: #464646;
+  font-family: Inter, var(--default-font-family);
+  font-size: 13.78125px;
+  font-weight: 500;
+  line-height: 21px;
+  text-align: left;
+  text-overflow: initial;
+  z-index: 505;
+  overflow: hidden;
+}
+.container-1dd {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  padding: 6.445px 0 2.115px 0;
+  z-index: 506;
+}
+.ekonomi-1de {
+  align-self: stretch;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 15px;
+  color: #cc0000;
+  font-family: Inter, var(--default-font-family);
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 14.29px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 507;
+}
+.component-1df {
+  display: flex;
+  align-items: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 16px;
+  position: relative;
+  z-index: 508;
+}
+.container-1e0 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 120px;
+  z-index: 509;
+  overflow: hidden;
+}
+.container-1e1 {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  min-width: 0;
+  height: 90px;
+  z-index: 510;
+}
+.william-sunito-ceo {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: url(./assets/images/2cd67da6-8c51-49a1-aa68-0788f2f58081.png)
+    no-repeat center;
+  background-size: 100% 100%;
+  z-index: 511;
+  overflow: hidden;
+}
+.container-1e2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 0;
+  position: relative;
+  z-index: 512;
+}
+.heading-1e3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  z-index: 513;
+  overflow: hidden;
+}
+.william-sunito-ceo-toko-bahan {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  width: 164px;
+  height: 84px;
+  color: #464646;
+  font-family: Inter, var(--default-font-family);
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 21px;
+  text-align: left;
+  text-overflow: initial;
+  z-index: 514;
+  overflow: hidden;
+}
+.container-1e4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  padding: 6.455px 0 2.105px 0;
+  z-index: 515;
+}
+.ekonomi-1e5 {
+  align-self: stretch;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 15px;
+  color: #cc0000;
+  font-family: Inter, var(--default-font-family);
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 14.29px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 516;
+}
+.container-1e6 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 20px;
+  position: relative;
+  min-width: 0;
+  height: 967px;
+  z-index: 517;
+}
+.background-1e7 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 16px;
+  position: relative;
+  min-width: 0;
+  padding: 0 0 20px 0;
+  background: #001541;
+  z-index: 518;
+}
+.container-1e8 {
+  display: flex;
+  align-items: center;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 136.12px;
+  position: relative;
+  width: 308px;
+  padding: 12px 16px 12px 16px;
+  z-index: 519;
+}
+.container-1e9 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 44px;
+  z-index: 520;
+}
+.foto {
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 24px;
+  color: #ffffff;
+  font-family: Inter, var(--default-font-family);
+  font-size: 15.875px;
+  font-weight: 600;
+  line-height: 24px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 521;
+}
+.background-1ea {
+  flex-shrink: 0;
+  position: absolute;
+  width: 32px;
+  height: 3px;
+  bottom: 0;
+  left: 16px;
+  background: #cc0000;
+  z-index: 524;
+}
+.link-1eb {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 95px;
+  z-index: 522;
+}
+.lihat-semua-1ec {
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 20px;
+  color: #ffffff;
+  font-family: Inter, var(--default-font-family);
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 20px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 523;
+}
+.container-1ed {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 16px;
+  position: relative;
+  padding: 0 0 16px 0;
+  z-index: 525;
+}
+.component-1ee {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 8px;
+  position: relative;
+  z-index: 526;
+}
+.container-1ef {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  height: 155.25px;
+  z-index: 527;
+  overflow: hidden;
+}
+.mike-tyson-tampar-jake-paul-1f0 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: url(./assets/images/fe7c205f-4ee0-4a49-90ba-e216695b93c8.png)
+    no-repeat center;
+  background-size: 100% 100%;
+  z-index: 528;
+  overflow: hidden;
+}
+.container-1f1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  z-index: 529;
+}
+.heading-1f2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  z-index: 530;
+}
+.foto-detik-detik-mike-tyson-1f3 {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  width: 300px;
+  font-family: Inter, var(--default-font-family);
+  font-size: 13.671875px;
+  font-weight: 500;
+  line-height: 21px;
+  text-align: left;
+  text-overflow: initial;
+  white-space: nowrap;
+  z-index: 531;
+}
+.foto-detik-detik-mike-tyson-1f4 {
+  position: relative;
+  color: #ffffff;
+  font-family: Inter, var(--default-font-family);
+  font-size: 13.671875px;
+  font-weight: 500;
+  line-height: 21px;
+  text-align: left;
+}
+.container-1f5 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  padding: 4.8px 0 2.05px 0;
+  z-index: 532;
+}
+.olahraga-1f6 {
+  align-self: stretch;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 16px;
+  color: #f5a623;
+  font-family: Inter, var(--default-font-family);
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 533;
+}
+.component-1f7 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 8px;
+  position: relative;
+  z-index: 534;
+}
+.container-1f8 {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  height: 155.25px;
+  z-index: 535;
+  overflow: hidden;
+}
+.timnas-indonesia-1f9 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: url(./assets/images/a9d48168-5925-4ea3-b32c-6190a1f59baf.png)
+    no-repeat center;
+  background-size: 100% 100%;
+  z-index: 536;
+  overflow: hidden;
+}
+.container-1fa {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  z-index: 537;
+}
+.heading-1fb {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  z-index: 538;
+}
+.foto-latihan-terakhir {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  width: 300px;
+  height: 42px;
+  color: #ffffff;
+  font-family: Inter, var(--default-font-family);
+  font-size: 13.890625px;
+  font-weight: 500;
+  line-height: 21px;
+  text-align: left;
+  text-overflow: initial;
+  z-index: 539;
+  overflow: hidden;
+}
+.container-1fc {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  padding: 4.8px 0 2.05px 0;
+  z-index: 540;
+}
+.olahraga-1fd {
+  align-self: stretch;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 16px;
+  color: #f5a623;
+  font-family: Inter, var(--default-font-family);
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 541;
+}
+.component-1fe {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 8px;
+  position: relative;
+  z-index: 542;
+}
+.container-1ff {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  height: 155.25px;
+  z-index: 543;
+  overflow: hidden;
+}
+.open-workout-jake-paul-vs-mike-tyson-200 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: url(./assets/images/06204904-ede6-4e30-a577-a22ab9daa07c.png)
+    no-repeat center;
+  background-size: 100% 100%;
+  z-index: 544;
+  overflow: hidden;
+}
+.container-201 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  z-index: 545;
+}
+.heading-202 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  z-index: 546;
+}
+.foto-mike-tyson-unjuk-kekuatan {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  width: 300px;
+  height: 42px;
+  color: #ffffff;
+  font-family: Inter, var(--default-font-family);
+  font-size: 13.890625px;
+  font-weight: 500;
+  line-height: 21px;
+  text-align: left;
+  text-overflow: initial;
+  z-index: 547;
+  overflow: hidden;
+}
+.container-203 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  padding: 4.8px 0 2.05px 0;
+  z-index: 548;
+}
+.olahraga-204 {
+  align-self: stretch;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 16px;
+  color: #f5a623;
+  font-family: Inter, var(--default-font-family);
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 549;
+}
